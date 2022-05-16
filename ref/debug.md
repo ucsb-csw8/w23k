@@ -368,26 +368,6 @@ print(f"I would like {num} tacos please.") # using f-strings
 
 ---
 
-## `ValueError: invalid literal for int() with base 10`
-*   Example erroneous code:
-```py
-current_year = '1792.99'
-current_year = int(current_year)
-print(current_year)
-```
-*   **Cause**:  Float, represented as a string, cannot be directly converted into an integer. If you do want to pass a string representation of a float to an int,  you need to convert to a float first, then to an integer.
-
-*   Correct code: 
-```py
-current_year = '1792.99'
-current_year = float(current_year)
-current_year = int(current_year)
-print(current_year)
-```
-
-
----
-
 ### `TypeError: object of type '...' has no len()`
 
 Examples include the errors
@@ -453,6 +433,26 @@ total_sum = 0
 for item in nested_list:
     item_sum = sum(item)
     total_sum += item_sum
+```
+
+
+---
+
+# `ValueError: invalid literal for int() with base 10`
+*   Example erroneous code:
+```py
+current_year = '1792.99'
+current_year = int(current_year)
+print(current_year)
+```
+*   **Cause**:  Float, represented as a string, cannot be directly converted into an integer. If you do want to pass a string representation of a float to an int,  you need to convert to a float first, then to an integer.
+
+*   Correct code: 
+```py
+current_year = '1792.99'
+current_year = float(current_year)
+current_year = int(current_year)
+print(current_year)
 ```
 
 
@@ -535,6 +535,7 @@ if __name__ == '__main__':
 ---
 ---
 ---
+
 # Common autograder error messages on Gradescope
 
 ## `Your submission timed out. It took longer than 600 seconds to run.` 
@@ -558,26 +559,98 @@ if __name__ == '__main__':
 
 
 
-# Template
+# Contribute
 
-### `Error: ...`
+If you would like to contribute another error or help us improve examples or explanations (or remove typos! :-)), you can do so by submitting a Pull Request (PR) via [this repo]({{ site.gh_edit_repository }}) or by submitting an [Issue there]({{ site.gh_edit_repository }}/issues).
 
-This is a template for the error entries.
+Below are the steps for how to contribute using the GitHub interface.
 
-* Example erroneous code:
+## Prerequisites
 
-```py
-...
+1. Create an account on <https://github.com/>
+1. Look up how to format text using Markdown (<https://www.markdownguide.org/cheat-sheet/>)
+1. Format the error and the exampe using Markdown - you can save them as a regular txt file.
+
+## Fork this repo
+
+This course website lives in a GitHub repository, which has a name corresponding to this quarter.
+
+We'll be referring to this course’s website as the `PROJECT_REPO` ([{{ site.gh_edit_repository }}]({{ site.gh_edit_repository }})) and the repository name as the `INITIAL_REPO_NAME`.
+
+Fork the `PROJECT_REPO` using the GitHub interface - use the "Fork" button in the upper-right corner of the repo. 
+* Follow the instructions on the screen.
+* We recommend adding `csw8-` as a prefix to the name of the repo to help you distinguish it in the list of your repositories.
+
+Note that **the _forked_ repo will produce a different URL** (i.e., link / web address) for each person who forked this repo. 
+We will refer to it as a `PROJECT_REPO_FORK`.
+
+The `PROJECT_REPO_FORK` URL will likely look like:
+```html
+https://github.com/YOUR_USER_NAME/csw8-INITIAL_REPO_NAME
 ```
 
-*   **Cause**: ...
 
-* Correct code: 
-```py
-...
-```
+## Make the changes
 
----
+You will need to make the changes to **your fork** (i.e., your `PROJECT_REPO_FORK`).
+
+### Step 1: Navigate to your fork
+In the browser, open up the `PROJECT_REPO_FORK`. (_Note that you need to open **your fork**_, not the original course repo.)
+* You were navigated there automatically, when you forked the repo.
+* Verify that in the top left corner, underneath the search bar, you see the name of your `PROJECT_REPO_FORK` with a _forked from [ucsb-csw8{{ site.baseurl }}]({{ site.gh_edit_repository }})_ right underneath it.
+
+### Step 2: Edit the file
+* Navigate to the `ref/` folder.
+* Find `debug.md` and click on it.
+* When the file opens up, you should see the "Edit this file" pencil icon ✏️  (next to the "Delete this file" trash icon).
+* GitHub will open its file editor where you can now add your edits. Use the template provided below if you are contributing an error we have not yet listed.
+* Remember to "Commit changes" to save your work.
+ 
+### Template 
+
+We attempt to alphabetize the errors, so please add the new entries to their appropriate location in the file. 
+
+    ### `Error: ...`
+
+    This is a template for the error entries.
+
+    * Example erroneous code:
+
+    ```py
+    #code
+    ```
+    * **Cause**: ...
+    * **Check**: ... 
+
+    * Correct code: 
+    ```py
+    #code
+    ```
+    ---
+
+
+You are now ready to submit a Pull Request (PR) via the GitHub web interface.
+
+## Submit a Pull Request (PR)
+
+In order for your changes to be added to the main `PROJECT_REPO`, you need to issue a **Pull Request** (usually abbreviated as PR).
+
+Pull Requests (PRs) are typically issued through the GitHub web interface. 
+
+1. After committing your changes, click on the "Pull Requests" **tab** at the top (the second link after "Code" in your `PROJECT_FORK_REPO` page on GitHub).
+1. Click on the <span style="color:green">green "New Pull Request" button</span>.
+
+**Important**: if you are not seeing your changes below, make sure to select the "`compare across forks`" link and then set the `base` and `head` repositories and branches accordingly.
+* `base` repository should be the `PROJECT_REPO`
+* `head` repository should be the `PROJECT_REPO_FORK`
+
+Click on the <span style="color:green">green "Create pull request" button</span>, add a short description and an optional comment.
+* Do **_not_** uncheck the box ☒ `Allow edits by maintainers`
+* Finish your PR by clicking on the <span style="color:green">green "Create Pull Request" button</span>.
+
+Congratulations! 🏆
+
+We are looking forward to reviewing your contributions.
 
 ---
 ---
