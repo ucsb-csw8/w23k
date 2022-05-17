@@ -483,6 +483,26 @@ current_year = int(current_year)
 print(current_year)
 ```
 
+---
+
+# `ZeroDivisionError: division by zero`
+
+* Example erroneous code:
+```py
+print(1 / 0)
+# or
+my_list = []
+print("The average value of the list is", sum(my_list) / len(my_list))
+```
+*   **Cause**:  The denominator in a division is 0.
+
+*   Correct code: 
+```py
+my_list = []
+if my_list != []: # len(my_list) != 0
+    print("The average value of the list is", sum(my_list) / len(my_list))
+```
+
 
 ---
 
