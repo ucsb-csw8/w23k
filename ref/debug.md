@@ -127,6 +127,34 @@ def print_hello():
 
 ---
 
+### `IndexError: ... index out of range`
+
+Example errors:
+* `IndexError: string index out of range`
+* `IndexError: list index out of range`
+
+* Example code that causes the error:
+
+```py
+my_str = ""
+print("The first symbol is", my_str[0])
+print("The last symbol is", my_str[-1])
+```
+
+* **Cause**: The string/list is being indexed at a location that does not exist.
+* **Check**: Print the length of the string/list to check its maximum index (remember that Python indexing starts at 0).
+
+* Correct code that won't cause the error: 
+
+```py
+my_str = ""
+if len(my_str) != 0: # my_str != ""
+    print("The first symbol is", my_str[0])
+    print("The last symbol is", my_str[-1])
+```
+
+---
+
 # `KeyError: ...` with a dictionary
 
 This error occurs when working with dictionaries. The line above the error shows which line caused the incorrect retrieval.
