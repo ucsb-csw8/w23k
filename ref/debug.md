@@ -514,6 +514,38 @@ if __name__ == '__main__':
 
 ---
 
+## Function returns None but a different value is needed
+
+* Example erroneous code: 
+
+```py
+def get_hello():
+    print("hello")
+
+if __name__ == '__main__':
+    print(get_hello())
+```
+
+* **Cause**: The function `get_hello()` does not return anything (it has no `return` statement) so when you call `print(get_hello())` you are printing its return value which is `None`. 
+* **Check**: Sometimes, this behavior can occur when your code has nested `if`/`elif` branches, which contain a `return` inside of them. If one or more of the conditions are not set up correctly, the correct return statement would not be triggered. 
+    * Verify the accuracy of the conditions, check the edge cases, especially with the `==` (e.g., is it supposed to be `<` or `<=`).
+    * Note what condition needs to fail for your code to return `None`. 
+    * Debug your code by adding print statements and/or add an `else: return 42` to see which branches get executed/skipped. 
+
+* Correct code: 
+
+```py
+def get_hello():
+    return "hello"
+
+if __name__ == '__main__':
+    print(get_hello())
+    assert get_hello() == "hello" # to check the return value
+```
+
+---
+
+
 ## Logic Errors
 * Sometimes, we get a logic error, when the output does not match what we expect.
 * Example erroneous code: 
