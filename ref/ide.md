@@ -147,8 +147,14 @@ Python will put the cursor and wait until you give the input to it. It won’t r
 
 ## Helpful notes
 
+### Enable line numbers
+In IDLE, you can select the `"Show Line Numbers"` option from the top `"Options"` menu.
+Seeing line numbers helps a lot with debugging, since Python errors report the code's line number where the error was detected.
+
+### Force the program to stop
 If you want to stop the program that behaves unexpectedly or runs for too long - just press `Ctrl+C` (`Control` and `C` at the same time) and the program will stop with the “Keyboard stopped me” Error (`KeyboardInterrupt`).
 
+### Function prompts
 If, in IDLE file mode, you write the name of a function, type an open parenthesis `(` and wait a little, you will get a help prompt that shows you how to use this function.
 !['A screenshot of the IDLE file that shows a help prompt.']({{ site.baseurl }}/assets/images/ide/help-prompt.png)
 
