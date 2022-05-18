@@ -15,7 +15,10 @@ Artwork by `@allison_horst`
 # 🐛 Debugging scenarios and solutions
 {:.no_toc}
 
-## Quick debugging tips
+<a name="top"></a>
+
+# Quick debugging tips
+{:.no_toc}
 1. Read the error message and look at the line that it refers to.
     1. Sometimes the issue is at the line just **above** the line that was listed in the error.
     1. If enabled, pay close attention to the **syntax highlighting** in your editor, which can point at where the error might be happening.
@@ -27,13 +30,38 @@ Artwork by `@allison_horst`
 
 ---
 
-## Table of contents
+# Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
+
+## `AttributeError: '...' object has no attribute '...'`
+
+Example errors:
+* `AttributeError: 'int' object has no attribute 'isdigit'`
+* `AttributeError: 'list' object has no attribute 'split'`
+
+*   Example erroneous code:
+```py
+my_int = 42
+if my_int.isdigit():
+    my_float = float(my_int)
+```
+*   **Cause**: A variable of one type is trying to use a method from a different (incompatible) type.
+*   **Check**: verify the type of the object that is listed before the `.` in the `.method()` call.
+    * Either change it to the type that the method works with (see example)
+    * Use another method/solution that works with the original object type (e.g., for strings stored in a list, you might need to iterate through each element of a list and use `split()` on the string element
+
+*   Corrected line of code: 
+```py
+my_int = "42"
+if my_int.isdigit():
+    my_float = float(my_int)
+```
+
 
 ## EOF (end-of-file) Errors
 
@@ -61,6 +89,7 @@ while num_items:
     items.append(item)
 ```
 
+[Back to top](#top)
 
 ---
 
@@ -76,6 +105,8 @@ print('Hello, World'
 print("Hello, World")
 ```
 
+[Back to top](#top)
+
 ---
 
 ## `EOL while scanning string literal`
@@ -89,6 +120,8 @@ or
 ```py
 print('Hello, World") # mismatched quotation marks
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -105,6 +138,8 @@ print("Hello world!")
 print("Hello world!")
 print("What a nice day!")
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -124,6 +159,8 @@ def print_hello():
     """Print a simple greeting."""
     print("Hello!")
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -152,6 +189,8 @@ if len(my_str) != 0: # my_str != ""
     print("The first symbol is", my_str[0])
     print("The last symbol is", my_str[-1])
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -188,6 +227,8 @@ print("First month is", month_names.get("1"))
 print("First month is", month_names[str(1)])
 ```
 
+[Back to top](#top)
+
 ---
 
 # Name Errors
@@ -218,6 +259,8 @@ print(Hello, World)
 ```
 generates the same error (`NameError: name 'Hello' is not defined`), since Python is now looking for a variable called `Hello` - it doesn’t know that we just forgot to put quotation marks around the text.
 
+[Back to top](#top)
+
 ---
 
 ## `NameError` with a dictionary
@@ -235,6 +278,8 @@ print(dict1[A])
 dict1 = {"A":1, "B":2, "C":3}
 print(dict1["A"])
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -293,6 +338,8 @@ if __name__ == '__main__':
   
 ```
 
+[Back to top](#top)
+
 ---
 
 # Syntax Errors
@@ -317,6 +364,8 @@ print'Hello World
 print(Hello World) # see also NameError
 ```
 
+[Back to top](#top)
+
 ---
 
 ## `SyntaxError: unmatched ')'`
@@ -325,6 +374,8 @@ print(Hello World) # see also NameError
 ```py
 print('Hello, World'))
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -346,6 +397,8 @@ sum(total)
 total = [42]
 sum(total)
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -377,6 +430,8 @@ if "a" in val:
     print("Found it!")
 ```
 
+[Back to top](#top)
+
 ---
 
 ### `TypeError: can only concatenate str (not "int") to str`
@@ -393,6 +448,8 @@ print("I would like " + str(num) + " tacos please.") # proper string concatenati
 print("I would like", num, "tacos please.") # using print defaults
 print(f"I would like {num} tacos please.") # using f-strings
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -417,6 +474,8 @@ len(42)
 len([42]) 
 ```
 
+[Back to top](#top)
+
 ---
 
 ### `TypeError: ... takes exactly one argument (... given)`
@@ -440,6 +499,8 @@ len(42, 33)
 ```py
 len([42, 33]) 
 ```
+[Back to top](#top)
+
 ---
 
 ### `TypeError: unsupported operand type(s) for +: 'int' and 'list'`
@@ -464,6 +525,8 @@ for item in nested_list:
 ```
 
 
+[Back to top](#top)
+
 ---
 
 # `ValueError: invalid literal for int() with base 10`
@@ -482,6 +545,8 @@ current_year = float(current_year)
 current_year = int(current_year)
 print(current_year)
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -503,6 +568,8 @@ if my_list != []: # len(my_list) != 0
     print("The average value of the list is", sum(my_list) / len(my_list))
 ```
 
+
+[Back to top](#top)
 
 ---
 
@@ -531,6 +598,8 @@ def print_hello():
 if __name__ == '__main__':
     print_hello()
 ```
+
+[Back to top](#top)
 
 ---
 
@@ -563,6 +632,8 @@ if __name__ == '__main__':
     assert get_hello() == "hello" # to check the return value
 ```
 
+[Back to top](#top)
+
 ---
 
 
@@ -587,6 +658,8 @@ def get_largest(x,y):
       return y
 ```
 
+[Back to top](#top)
+
 ---
 
 ## Function address is printed `<function function_name at 0x....> `
@@ -608,6 +681,8 @@ if __name__ == '__main__':
     ...
     print(f"Circle has area {area(radius)} inches squared.")
 ``` 
+
+[Back to top](#top)
 
 ---
 
@@ -632,6 +707,8 @@ if __name__ == '__main__':
 
 * **Cause**: Something in your file is causing a syntax error (could be as simple as incorrect indentation; see the SyntaxError examples listed above). 
 * **Check**: Run your code and examine the line that is causing an error.
+
+[Back to top](#top)
 
 ---
 ---
@@ -706,6 +783,9 @@ We attempt to alphabetize the errors, so please add the new entries to their app
     ```py
     #code
     ```
+    
+    [Back to top](#top)
+
     ---
 
 
@@ -731,6 +811,8 @@ Click on the <span style="color:green">green "Create pull request" button</span>
 Congratulations! 🏆
 
 We are looking forward to reviewing your contributions.
+
+[Back to top](#top)
 
 ---
 ---
