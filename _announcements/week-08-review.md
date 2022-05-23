@@ -1,8 +1,10 @@
 ---
-title: Week 8 Review (Functions (continued) / Strings)
+title:  Week 8 Review (More Advanced Functions and Strings)
 week: 8
 date: 2022-05-23
 ---
+
+# 🎱 Week 8: More Advanced Functions and Strings
 
 Dear all,
 
