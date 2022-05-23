@@ -341,6 +341,142 @@ if __name__ == '__main__':
 [Back to top](#top)
 
 ---
+# `RecursionError: maximum recursion depth exceeded`
+
+* **Cause**: This error usually occurs due to an **infinite recursion**, which typically happens when there is ...
+    * <span style="color:red">no base case</span>
+    * <span style="color:red">an invalid base case</span>
+    * <span style="color:red">a missing base case</span>
+    * <span style="color:red">an incorrect recursive call</span>
+    * <span style="color:red">a missing `return`</span>
+
+* **Check**: The following actions suggest what you can check when debugging an infinite recursion - make sure to add `print()` statements to _each_ branch, so that you can trace _which case_ is being called and with _which arguments_. Check the cases in the provided order:
+    *  <span style="color:red">No base case</span>: 
+        - does the recursive **function definition** contain an `if` statement that compares if the **input parameter** is a **_specific value_**, which corresponds to the base case?
+        - do the instructions mention any specific value that can be turned into a base case? what action needs to happen in that case?
+        - Common base cases are typically: an empty list/string; a count/length of 0 or 1; a minimum/maximum allowed value; 
+    *  <span style="color:red">An invalid base case</span>: does the `if` statement compare the **input parameter** to the **correct value** of the **correct type**?
+    *  <span style="color:red">A missing base case</span>: 
+        - does there need to be another `if`/`elif` statement that should check if the **input parameter** corresponds to an _additional_ **correct value** of the **correct type** (remember the Fibbonacchi numbers example)? 
+        - Ask yourself: is there another case when the function _does not need to do any computation/processing_ (so that it can easily produce the answer)? what action needs to happen in that case?
+        - Common additional base cases: finding a match in a list/string; a single-element list/string
+    *  <span style="color:red">An incorrect recursive call</span>: 
+        - are the **arguments** in the recursive function call (_within the function itself_) being **reduced** / **increased** so that they **get closer to the value in the base case**? (use `print()` to verify/visualize their values)
+        - Plug-in **_the next simplest case_** that would occur immediately **_after the base case_** and check whether the recursive call correctly triggers the base case (e.g., if the base case is an empty list, check if the function call with a single-element list would end up calling the base case).
+        - Check the instructions - are the input values supposed to be from a specific range (e.g., non-negative? is 0 included? are letters/strings accepted?)
+    *  <span style="color:red">A missing `return`</span>: Verify that if the function is supposed to **return** its result, then _each branch_ contains the `return` keyword. In the recursive case/branch, it is common to `return` **the result of calling the recursive function** (i.e., the recursive call). 
+
+### Example erroneous code illustrating the above recursion issues
+
+Starting from the first case, we illustrate the potential issues by building on the first example:
+
+* <span style="color:red">No base case</span>
+
+```py
+def fib(n):
+    """
+    param: n (int) - the ordinal value of the Fibonacchi
+           sequence; expected to be > 0.
+    The function recursively computes the n-th Fibonacchi
+    number, starting from the 1st one.
+    returns: the computed Fibonacchi value (int)
+    """
+    # missing a base case here - no `if` branch
+    return fib(n - 1) + fib(n - 2)
+
+if __name__ == "__main__":
+    print(fib(3))
+```
+    
+* <span style="color:red">An invalid base case</span>
+
+```py
+def fib(n):
+    """
+    param: n (int) - the ordinal value of the Fibonacchi
+           sequence; expected to be > 0.
+    The function recursively computes the n-th Fibonacchi
+    number, starting from the 1st one.
+    returns: the computed Fibonacchi value (int)
+    """
+    if n == '1': # incorrect type of the base case
+        return 1
+    return fib(n - 1) + fib(n - 2)
+
+if __name__ == "__main__":
+    print(fib(3))
+```
+
+* <span style="color:red">A missing base case</span>
+
+```py
+def fib(n):
+    """
+    param: n (int) - the ordinal value of the Fibonacchi
+           sequence; expected to be > 0.
+    The function recursively computes the n-th Fibonacchi
+    number, starting from the 1st one.
+    returns: the computed Fibonacchi value (int)
+    """
+    if n == 1: # correct type of the base case
+        return 1 # correct return, correct value, correct type
+    # need another base case, for the 2nd Fibonacchi n
+    return fib(n - 1) + fib(n - 2)
+
+if __name__ == "__main__":
+    print(fib(3))
+```
+
+
+* <span style="color:red">An incorrect recursive call</span>
+
+```py
+def fib(n):
+    """
+    param: n (int) - the ordinal value of the Fibonacchi
+           sequence; expected to be > 0.
+    The function recursively computes the n-th Fibonacchi
+    number, starting from the 1st one.
+    returns: the computed Fibonacchi value (int)
+    """
+    if n == 1:
+        return 1
+    if n == 2:
+        return 1
+    return fib(n) + fib(n - 2) # the first function call doesn't decrement n
+
+if __name__ == "__main__":
+    print(fib(3))
+    print(fib(0)) # also, the function call is not supposed to work for n <= 0
+```
+
+
+* <span style="color:red">A missing `return`</span>
+
+```py
+def fib(n):
+    """
+    param: n (int) - the ordinal value of the Fibonacchi
+           sequence; expected to be > 0.
+    The function recursively computes the n-th Fibonacchi
+    number, starting from the 1st one.
+    returns: the computed Fibonacchi value (int)
+    """
+    if n == 1:
+        print ( 1 ) # missing a correct return
+    if n == 2:
+        print( 1 ) # incorrect return value
+    return fib(n - 1) + fib(n - 2)
+
+if __name__ == "__main__":
+    print(fib(3))
+```
+
+
+[Back to top](#top)
+
+---
+
 
 # Syntax Errors
 
@@ -767,7 +903,7 @@ In the browser, open up the `PROJECT_REPO_FORK`. (_Note that you need to open **
 
 We attempt to alphabetize the errors, so please add the new entries to their appropriate location in the file. 
 
-    ### `Error: ...`
+    # `Error: ...`
 
     This is a template for the error entries.
 
