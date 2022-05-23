@@ -39,7 +39,9 @@ As you can see on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar#week-8),
     - Watch the videos listed in zyBooks Section 9.7 (_Recursion: Additional resources_) - the concept of the **stack frame**, which is described in the second video, is crucial for understanding recursion.
 
 * Since we expect you to watch the videos before completing the zyBook activities, **we will _not_ have a synchronous class on Tuesday (May 24)**.
-    - Quiz 6 will open up at **10:30am on Gauchospace** - you do not need to be on Zoom to take it. Read the Quiz description and follow its instructions precisely.
+    - Quiz 6 will open up at **10:30am on Gauchospace** - you do not need to be on Zoom to take it. 
+        - Read the Quiz description and follow its instructions precisely.
+        - Take the **Practice Gradescope quiz (Week 8)** posted under the Week 8 tab on Gauchospace - it will give you a chance to practice submitting your code to Gradescope.
     - Thursday class will be dedicated to your questions about recursion and Week 8 labs.
 
  
