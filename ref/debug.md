@@ -164,7 +164,7 @@ def print_hello():
 
 ---
 
-### `IndexError: ... index out of range`
+# `IndexError: ... index out of range`
 
 Example errors:
 * `IndexError: string index out of range`
@@ -842,7 +842,7 @@ if __name__ == '__main__':
 ## `Test Failed: Syntax error when importing ...`
 
 * **Cause**: Something in your file is causing a syntax error (could be as simple as incorrect indentation; see the SyntaxError examples listed above). 
-* **Check**: Run your code and examine the line that is causing an error.
+* **Check**: Run your code and examine the line that is causing an error. If you are not getting any syntax errors when running code in your IDE, then verify that you have a correctly-placed `if __name__ == '__main__'` block in your file.
 
 [Back to top](#top)
 
