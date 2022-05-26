@@ -480,6 +480,17 @@ if __name__ == "__main__":
 
 # Syntax Errors
 
+## `SyntaxError: invalid character in identifier`
+
+*   **Cause**:   Either quotations around the text or some other symbol is not from the standard Latin alphabet used by Python. The error typically occurs when writing code in a text processor (e.g., Word), typing on a mobile device that has autocorrect enabled, or (rarely) when accidentally switching the keyboard language layout.
+
+*   Example erroneous code:
+```py
+print(‘Hello!’) # invalid quotations
+```
+
+
+
 ## `SyntaxError: invalid syntax`
 
 This is a general error that occurs when the syntax is not correct and a "Python sentence" is broken.
