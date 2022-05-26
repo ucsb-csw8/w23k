@@ -99,6 +99,8 @@ For in-class participation, we will be using the [iClicker app](https://macmilla
 
 > Note: **There will be no midterms or final exams.** 
 
+See the note about the [Replacement Quiz]({{site.url}}/{{site.baseurl}}/quiz#make-up--replacement-quiz) during the final exam slot.
+
 Quizzes will usually be announced during the previous week/class. 
 
 **iClicker participation** gets full credit if a student responds to 75% of questions asked during the class, rounded up (e.g., if there are 14 questions asked during the class you need to _answer_ 11 of them to get the participation point). Note that you do not need to get them all correct but there might occasionally be extra points for those who get all or almost all correctly answered.
@@ -146,6 +148,7 @@ You will be required to submit this form separately for all weeks in which you w
 During the term, you can request **two 1-day extensions** for the weekly deadline of the **zyBook activities** (we can offer extension only for the zyBooks activities, not the quizzes, reflections, etc.). Do not contact us via the forum or the email, just [submit this form to request an extension](https://forms.gle/QQkXMfKswjDbCEi49) and select whether the extension is for the PAs, CAs, and/or LAs.
 * You need to submit this form **within a day of the respective 10pm** deadline.
 * We will not accept retroactive extension requests for previous weeks.
+* The deadline extensions **do not** apply to the **final project**.
 
 If your situation is more serious and requires a longer extension, you need to provide the **official documentation** and complete the steps described in the section below. 
 
