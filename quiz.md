@@ -155,7 +155,7 @@ We hope you can see why that’s important, and we appreciate your cooperation.
 
 ---
 
-# Make-up / Replacement Quizzes
+# Make-up / Replacement Quiz
 
 _**In addition to**_ the original lowest dropped quiz, students will have an opportunity to _optionally_ replace **one** 
 of their quiz grades with a make-up quiz.
