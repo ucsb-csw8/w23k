@@ -530,7 +530,7 @@ print('Hello, World'))
 
 ### `TypeError: argument of type 'int' is not iterable`
 
-Related error: `TypeError: 'list' object cannot be interpreted as an integer`
+Related error: [`TypeError: 'list' object cannot be interpreted as an integer`](#typeerror-list-object-cannot-be-interpreted-as-an-integer)
 
 * Example erroneous code:
 
@@ -705,11 +705,44 @@ len(42, 33)
 ```py
 len([42, 33]) 
 ```
+
+[Back to top](#top)
+
+---
+
+### `TypeError: '...' not supported between instances of '...' and '...'`
+
+Some specific instances of this error:
+* `TypeError: '<=' not supported between instances of 'int' and 'str'`
+* `TypeError: '<' not supported between instances of 'str' and 'int'`
+
+Similar error: `TypeError: unsupported operand type(s) ...`
+
+*   **Causes**: The code is trying to compare incompatible types. The listed types are on the left and ithe right side of the provided operator respectively.
+*   **Check**: Does either or both of the operands need to be converted into a numeric type?
+
+* Erroneous code:
+```py
+my_var = input() 
+if my_var < 5:
+   print(my_var)
+```
+
+* Correct code: 
+
+```py
+my_var = int(input()) 
+if my_var < 5:
+   print(my_var)
+```
+
 [Back to top](#top)
 
 ---
 
 ### `TypeError: unsupported operand type(s) for +: 'int' and 'list'`
+
+Similar error: `TypeError: '...' not supported between instances of 'int' and 'str'`
 
 * Example erroneous code:
 
@@ -718,7 +751,7 @@ nested_list = [[5, 10, 6], [7, 8, 9]]
 total_sum = sum(nested_list)
 ```
 
-*   **Cause**: The error can occur when trying to sum up a nested list, instead of its individual elements.
+*   **Cause**: The error can occur when trying to apply a built-in Python method to an unsupported type, e.g., to sum up a nested list, instead of its individual elements.
 
 * Correct code: 
 
