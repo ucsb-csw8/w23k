@@ -530,19 +530,35 @@ print('Hello, World'))
 
 ### `TypeError: argument of type 'int' is not iterable`
 
+Related error: `TypeError: 'list' object cannot be interpreted as an integer`
+
 * Example erroneous code:
 
 ```py
 total = 42
 sum(total)
+
+# another alternative that would case such error
+for i in total: # `in` requires a range/collection, not an integer
+    print(i)
 ```
 
 *   **Cause**: The error usually occurs when a built-in Python function that is intended for a sequence/collection is applied to an integer instead.
+*   **Check**: Take a look at the line that is causing an error and verify that you are using a proper collection (i.e., a list or a range). 
+
 * Correct code:
 
 ```py
 total = [42]
 sum(total)
+
+for i in total: # `in` requires a range/collection, not an integer
+    print(i)
+
+# alternatively, if `total` needed to stay as an integer
+total = 42
+for i in range(total):
+    print(i)
 ```
 
 [Back to top](#top)
@@ -564,13 +580,16 @@ if "a" in val:
     * Do not store the result of `print()` and attempt to index it. Just like the methods that modify lists directly (since lists are mutable), `print()` does not return anything other than `None`.
 
 * Correct code:
+
 ```py
 val = None
 if val != None:
     if "a" in val:
         print("Found it!")
 ```
+
 or
+
 ```py
 val = "aeou" # correct object provided
 if "a" in val:
@@ -583,17 +602,57 @@ if "a" in val:
 
 ### `TypeError: can only concatenate str (not "int") to str`
 * Example erroneous code:
+
 ```py
 num = 6
 print("I would like " + num + " tacos please.")
 ```
+
 *   **Cause**:  You can only concatenate a string with a string, not a numeric type. Check the types of the variables that you are using in the concatenation.
+
 * Correct code and alternatives: 
+
 ```py
 num = 6
 print("I would like " + str(num) + " tacos please.") # proper string concatenation
 print("I would like", num, "tacos please.") # using print defaults
 print(f"I would like {num} tacos please.") # using f-strings
+```
+
+[Back to top](#top)
+
+---
+
+### `TypeError: 'list' object cannot be interpreted as an integer`
+
+* Example erroneous code:
+
+```py
+total = [42]
+for i in range(total):
+	print(i)
+```
+
+*   **Cause**: The `range()` function requires an **integer argument** but a list is given instead.
+*   **Check**: 
+   * Is the current argument given to the `range()` supposed to be a list? Are you trying to print its _values_? If so, why do you need to use a `range()`, which helps print _indices_?
+   * Do you need to print indices of a list? If so, do you have `len()` of a list as an input to the `range()`?
+   * Do you need to generate a bunch of numbers and you accidentally stored the total as a list, instead of as an integer? 
+
+* Depending on what you need to do, the potential solutions to the above error could be:
+
+```py
+# `total` needs to be an integer, not a list
+total = 42
+for i in range(total):
+	print(i) # prints the numbers from 0 to 42 (value in total)
+
+# or, alternatively
+# `total` stays as a list but
+# the range() needs to be provided a proper integer, e.g., the length of the list
+total = [42]
+for i in range(len(total)):
+	print(i) # prints the indices of the list, which is just 0
 ```
 
 [Back to top](#top)
