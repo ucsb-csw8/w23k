@@ -24,14 +24,16 @@ Jun 2
 
 Jun 3
 : <p class="text-grey-dk-000 mb-0"><em>Instruction Ends</em></p>
-
-: _Begin reading next week’s chapter._
-: _Work through its PAs and CAs._
+: Submit the project files to Gradescope
+   : **10PM** ⏰  Due: **LA10**{: .label .label-green } **Project Checkpoint 1**{: .label .label-green }
 
 Jun 4
 : _Async activities_ ☝️ 
 
 Jun 5
-: _By the end of Sunday: Ideally, you should be finished with LAs for Chapter 10, which are used in the **final project**._
-
+: [](#)
+   : **10PM** ⏰  Due: **Reflection**{: .label .label-yellow } 
+: _By the end of Sunday: Ideally, you should be finished with the **final project**._
+: Submit the project files to Gradescope
+   : **10PM** ⏰  Due: **Project Checkpoint 2**{: .label .label-green }
 
