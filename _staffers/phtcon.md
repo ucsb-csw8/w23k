@@ -1,8 +1,8 @@
 ---
-name: Prof. K (Yekaterina Kharitonova)
+name: Prof. Phill Conrad
 role: Instructor
-pronouns: she/they
-photo: ykk-avatar.png
+pronouns: he/him/his
+photo: 
 ---
 
 [Schedule an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFjZExlYWxLMkdRfGRlZmF1bHR8NTZmMGZmY2IyYjFmZTVmMmNmNWQ0YmUxZjQ2MWUwOGY){: .btn .btn-outline }

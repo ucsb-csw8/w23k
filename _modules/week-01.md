@@ -2,27 +2,27 @@
 title: Week 1
 topic: Introduction to Python 3
 ---
-Mar 28
+Jan 08
 : [](#)
 
-Mar 29
+Jan 09
 : 09:30am **Class**{: .label .label-purple }: First class of Spring 2022! ✨
 
-Mar 30
+Jan 10
 : **LA**{: .label .label-green } First lab sessions 🎊
 : **➡️**{: .label .label-yellow } Post team info on Piazza
 
-Mar 31
+Jan 11
 : 09:30am **Class**{: .label .label-purple }
    : **10PM** ⏰  Due: **LA01 Checkpoint**{: .label .label-green }
 
-Apr 1
+Jan 12
 : [](#)
 
-Apr 2
+Jan 13
 : [](#)
 
-Apr 3
+Jan 14
 : **➡️**{: .label .label-yellow } Submit **Welcome survey** on Gauchospace
    : **10PM** ⏰  Due: **Welcome survey**{: .label .label-yellow }
 
