@@ -44,7 +44,7 @@ schedule:
         location: Deept
   - name: Tuesday
     events:
-        - name: Section
+      - name: Section
         start: 09:00 AM
         end: 09:50 AM
         location: Zoom (Staff names TBD)

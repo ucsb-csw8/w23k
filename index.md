@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: CSW8 (S22)
 nav_exclude: true
 seo:
