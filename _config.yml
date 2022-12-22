@@ -64,6 +64,8 @@ aux_links:
     - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=TBD'
   Gradescope:
     - 'https://www.gradescope.com/courses/TBD'
+  "Main CS8 W Site":
+    - 'https://ucsb-csw8.github.io'
 aux_links_new_tab: true
 
 footer_content: 'Phill Conrad &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
