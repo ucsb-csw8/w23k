@@ -19,7 +19,7 @@ purchase it by the first day of class, {{page.first_day}}.  The cost is $77.
 Here's how to purchase:
 
 * Create an account at <https://learn.zybooks.com> using your UCSB email of the form `username@ucsb.edu`
-* You'll see the following. Enter zyBook code `UCSBCMPSCW8Winter2022`
+* You'll see the following. Enter zyBook code `UCSBCMPSCW8Winter2023 `
   <img width="520" alt="image" src="https://user-images.githubusercontent.com/1119017/210282761-e3772e49-b5cf-41b4-a7bd-bd29e53eda20.png">
 
 * Then, you'll see the following:
