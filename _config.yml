@@ -57,13 +57,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   zyBooks:
-    - 'https://learn.zybooks.com/zybook/TBD'
+    - 'https://learn.zybooks.com/zybook/UCSBCMPSCW8Winter2023'
   Piazza:
     - 'https://piazza.com/class/lcgvkxcns62kr/'
   Gauchospace:
-    - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=TBD'
+    - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=45433'
   Gradescope:
-    - 'https://www.gradescope.com/courses/TBD'
+    - 'https://www.gradescope.com/courses/481334'
   "Main CS8 W Site":
     - 'https://ucsb-csw8.github.io'
 aux_links_new_tab: true
