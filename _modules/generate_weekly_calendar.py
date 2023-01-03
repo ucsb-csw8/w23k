@@ -88,7 +88,7 @@ topic = {
 }
 
 ### These notes are replaced with the specifics for each respective week below
-due_dates = {
+due_dates_kate = {
     "Mon" : ": _Finish reading and review Chapter X in zyBooks._\n"
             ": _Complete the PAs and CAs._\n"
             ": _Test your understanding with the Reading Quiz._\n"
@@ -96,42 +96,102 @@ due_dates = {
             "   : **10PM** ⏰  Due: **PA**{: .label .label-orange }",
     "Tue" : ": 09:30am **Class**{: .label .label-purple }\n" 
 #            ": [](#)\n"
-            "   : **10PM** ⏰  Due: **CA**{: .label .label-blue }",
+            "   : **10PM** ⏰  Due: **CA**{: .label .label-blue }",   
+   
+    ### NEW: Deadline for prev week's LA Tuesday 11:59pm            
+
     "Wed" : ": 09:00am **LA**{: .label .label-green }_are expected to be done_\n"
 #           ": [](#)\n"
             "   : **10PM** ⏰  Due: **LA**{: .label .label-green }",
+
+    ### NEW: Deadline for LA checkpoints (end of day, 11:59pm when lab occurs)  
+          
+    ### STAFF SCHEDULE: Instructors (Kate/Phill) review labs for upcoming week
+    ## TODO: Kate/Phill set up meeting time for reviewing labs for upcoming week...
+
     "Thu" : ": 09:30am **Class**{: .label .label-purple }\n"
 #            ": [](#)\n"
             "   : **10PM** ⏰  Due: **LA Checkpoint**{: .label .label-green }",
+
+    ### STAFF SCHEDULE: Assign staff to complete lab for following week
+
     "Fri" : ": _Begin reading next week’s chapter._\n"
             ": _Work through its PAs and CAs._\n"
             ": _Finish the Weekly reflection._",
+
+    ### STAFF SCHEDULE: Staff reports to instructors any feedback on labs for following week
+
     "Sat" : ": _Async activities_ ☝️ ", 
+
+    ### STAFF SCHEDULE: Instructors make labs visible on zyBooks. (Don't give edit privs to TA/LAs)
+
     "Sun" : ": _By the end of Sunday: Ideally, you should be finished with PAs for Chapter Y and done with the CAs for its first 4-5 sections._\n"
             ": [](#)\n"
             "   : **10PM** ⏰  Due: **Reflection**{: .label .label-yellow }\n"
-            
-
+    ### NEW: Deadline for prev week's PAs, CAs, Reflection. Sunday 11:59pm            
 }
+
+
+### These notes are replaced with the specifics for each respective week below
+due_dates_phill = {
+    "Sun" : ": _Finish reading and review Chapter X in zyBooks._\n"
+            ": _Complete the PAs and CAs._\n"
+            ": _Test your understanding with the Reading Quiz._\n"
+#            ": [](#)\n"
+            "   : **11:59PM** ⏰  Try to complete: **PAs and CAs**{: .label .label-orange }",
+    "Mon" : ": 09:30am **Class**{: .label .label-purple }\n" 
+#            ": [](#)\n"
+            "   : **11:59PM** ⏰  Due: **Previous Week's LAs**{: .label .label-blue }",   
+   
+    "Tue" : ": 09:00am **LA**{: .label .label-green }_are expected to be done_\n"
+#           ": [](#)\n"
+            "   : **11:59PM** ⏰  Due: **LA checkpoints**{: .label .label-green }",
+          
+    ### STAFF SCHEDULE: Instructors (Kate/Phill) review labs for upcoming week
+    ## TODO: Kate/Phill set up meeting time for reviewing labs for upcoming week...
+
+    "Wed" : ": 09:30am **Class**{: .label .label-purple }\n"
+#            ": [](#)\n"
+
+    ### STAFF SCHEDULE: Assign staff to complete lab for following week
+
+    "Thu" : ": _Begin reading next week’s chapter._\n"
+            ": _Work through its PAs and CAs._\n"
+            ": _Finish the Weekly reflection._",
+
+    ### STAFF SCHEDULE: Staff reports to instructors any feedback on labs for following week
+
+    "Fri" : ": _Continue_ (reading, PAs, CAs, LAs and weekly reflection) ☝️ ", 
+
+    ### STAFF SCHEDULE: Instructors make labs visible on zyBooks. (Don't give edit privs to TA/LAs)
+
+    "Sat" : ": _By the end of Saturday: Ideally, you should be finished with PAs for Chapter Y and done with the CAs for its first 4-5 sections._\n"
+            ": [](#)\n"
+            "   : **11:59PM** ⏰  Due: **Reflection**{: .label .label-yellow }\n"
+    ### NEW: Deadline for prev week's PAs, CAs, Reflection. Saturday 11:59pm            
+}
+
 
 ### https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/academic-calendars 
 holidays = {
-    (5, 30) : "Memorial Day", # May 30
+    (1, 16) : "Martin Luther King Jr. Day", # January 17
+    (2, 20) : "Presidents' Day", # February 21
+    # (5, 30) : "Memorial Day", # May 30
 }
 
 ### https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/registration-pass-dates
 admin_dates = {
-    (4, 22) : "Deadline to Drop Courses",
-    (6, 3) : "Instruction Ends"
+    (2, 6) : "Deadline to Drop Courses",
+    (3, 17) : "Instruction Ends"
 }
 
-start_month = 3 # March
-start_monday = 28 # March 28
+start_month = 1 # Jan
+start_monday = 9 # Jan 9
 start_week = 1
 exclude_weekends = False #True
 include_days_of_week = False # whether to include "Mon", "Tue" with the day
-end_month = 6 # 
-end_day = 10 # the last day of classes, Final Exams June 4 - 10
+end_month = 3 # 
+end_day = 17 # the last day of classes, Final Exams June 4 - 10
 
 num_days = 7
 num_weeks = 11 # stop before this week
