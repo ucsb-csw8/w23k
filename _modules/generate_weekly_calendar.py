@@ -74,6 +74,11 @@ days = {
     7: "Sun"
 }
 
+due_dates = {}
+for day in days.values():
+    due_dates[day] = ": "
+
+### WARNING: do not use colons in the topic title - it confuses Jekyll
 topic = {
     1: "Introduction to Python 3",
     2: "Objects, Functions, and Expressions",
@@ -88,110 +93,101 @@ topic = {
 }
 
 ### These notes are replaced with the specifics for each respective week below
-due_dates_kate = {
+class_time = "09:30am"
+due_time = "11:59pm"
+
+class_days = ["Mon", "Wed"]
+lab_day = "Tue"
+lab_due = "Mon"
+"""
+class_days = ["Tue", "Thu"]
+lab_day = "Wed"
+lab_due = "Tue"
+"""
+
+### Add classes/labs to the schedule
+due_dates[class_days[0]] += f": {class_time} **Class**{{: .label .label-purple }}\n"
+due_dates[class_days[1]] += f": {class_time} **Class**{{: .label .label-purple }}\n"
+due_dates[lab_day] += f": **Lab sections**{{: .label .label-purple }}\n"
+
+### NEW: Deadline for LA checkpoints (end of day, 11:59pm when lab occurs)  
+due_dates[lab_day] += f": **{due_time}**  ⏰  Due: **LA Checkpoint**{{: .label .label-green }}\n"
+
+### NEW: Deadline for prev week's LA 11:59pm (the day before lab day)
+due_dates[lab_due] += f": **{due_time}**  ⏰  Due: **LA**{{: .label .label-green }}\n"
+
+### NEW: Deadline for prev week's PAs, CAs, Reflection. Sunday 11:59pm
+due_dates["Sun"] += f": **{due_time}**  ⏰  Due: **PA**{{: .label .label-orange }}, **CA**{{: .label .label-blue }}, **Reflection**{{: .label .label-yellow }}\n"
+
+
+  
+# Wed
+### STAFF SCHEDULE: Instructors (Kate/Phill) review labs for upcoming week
+## TODO: Kate/Phill set up meeting time for reviewing labs for upcoming week...
+
+# Thu
+### STAFF SCHEDULE: Assign staff to complete lab for following week
+
+# Fri
+### STAFF SCHEDULE: Staff reports to instructors any feedback on labs for following week
+
+# Sat
+### STAFF SCHEDULE: Instructors make labs visible on zyBooks. (Don't give edit privs to TA/LAs)
+
+
+
+"""
+due_dates_old = {
     "Mon" : ": _Finish reading and review Chapter X in zyBooks._\n"
             ": _Complete the PAs and CAs._\n"
             ": _Test your understanding with the Reading Quiz._\n"
 #            ": [](#)\n"
-            "   : **10PM** ⏰  Due: **PA**{: .label .label-orange }",
-    "Tue" : ": 09:30am **Class**{: .label .label-purple }\n" 
+            "   : **{due_time}** ⏰  Due: **PA**{: .label .label-orange }",
+    class_days[0] : ": {class_time} **Class**{: .label .label-purple }\n" 
 #            ": [](#)\n"
-            "   : **10PM** ⏰  Due: **CA**{: .label .label-blue }",   
-   
-    ### NEW: Deadline for prev week's LA Tuesday 11:59pm            
-
+            "   : **{due_time}** ⏰  Due: **CA**{: .label .label-blue }",
     "Wed" : ": 09:00am **LA**{: .label .label-green }_are expected to be done_\n"
 #           ": [](#)\n"
-            "   : **10PM** ⏰  Due: **LA**{: .label .label-green }",
-
-    ### NEW: Deadline for LA checkpoints (end of day, 11:59pm when lab occurs)  
-          
-    ### STAFF SCHEDULE: Instructors (Kate/Phill) review labs for upcoming week
-    ## TODO: Kate/Phill set up meeting time for reviewing labs for upcoming week...
-
-    "Thu" : ": 09:30am **Class**{: .label .label-purple }\n"
+            "   : **{due_time}** ⏰  Due: **LA**{: .label .label-green }",
+    class_days[1] : ": {class_time} **Class**{: .label .label-purple }\n"
 #            ": [](#)\n"
-            "   : **10PM** ⏰  Due: **LA Checkpoint**{: .label .label-green }",
-
-    ### STAFF SCHEDULE: Assign staff to complete lab for following week
-
+            "   : **{due_time}** ⏰  Due: **LA Checkpoint**{: .label .label-green }",
     "Fri" : ": _Begin reading next week’s chapter._\n"
             ": _Work through its PAs and CAs._\n"
             ": _Finish the Weekly reflection._",
-
-    ### STAFF SCHEDULE: Staff reports to instructors any feedback on labs for following week
-
     "Sat" : ": _Async activities_ ☝️ ", 
-
-    ### STAFF SCHEDULE: Instructors make labs visible on zyBooks. (Don't give edit privs to TA/LAs)
-
     "Sun" : ": _By the end of Sunday: Ideally, you should be finished with PAs for Chapter Y and done with the CAs for its first 4-5 sections._\n"
             ": [](#)\n"
-            "   : **10PM** ⏰  Due: **Reflection**{: .label .label-yellow }\n"
-    ### NEW: Deadline for prev week's PAs, CAs, Reflection. Sunday 11:59pm            
+            "   : **{due_time}** ⏰  Due: **Reflection**{: .label .label-yellow }\n"
 }
+"""
 
 
-### These notes are replaced with the specifics for each respective week below
-due_dates_phill = {
-    "Sun" : ": _Finish reading and review Chapter X in zyBooks._\n"
-            ": _Complete the PAs and CAs._\n"
-            ": _Test your understanding with the Reading Quiz._\n"
-#            ": [](#)\n"
-            "   : **11:59PM** ⏰  Try to complete: **PAs and CAs**{: .label .label-orange }",
-    "Mon" : ": 09:30am **Class**{: .label .label-purple }\n" 
-#            ": [](#)\n"
-            "   : **11:59PM** ⏰  Due: **Previous Week's LAs**{: .label .label-blue }",   
-   
-    "Tue" : ": 09:00am **LA**{: .label .label-green }_are expected to be done_\n"
-#           ": [](#)\n"
-            "   : **11:59PM** ⏰  Due: **LA checkpoints**{: .label .label-green }",
-          
-    ### STAFF SCHEDULE: Instructors (Kate/Phill) review labs for upcoming week
-    ## TODO: Kate/Phill set up meeting time for reviewing labs for upcoming week...
-
-    "Wed" : ": 09:30am **Class**{: .label .label-purple }\n"
-#            ": [](#)\n"
-
-    ### STAFF SCHEDULE: Assign staff to complete lab for following week
-
-    "Thu" : ": _Begin reading next week’s chapter._\n"
-            ": _Work through its PAs and CAs._\n"
-            ": _Finish the Weekly reflection._",
-
-    ### STAFF SCHEDULE: Staff reports to instructors any feedback on labs for following week
-
-    "Fri" : ": _Continue_ (reading, PAs, CAs, LAs and weekly reflection) ☝️ ", 
-
-    ### STAFF SCHEDULE: Instructors make labs visible on zyBooks. (Don't give edit privs to TA/LAs)
-
-    "Sat" : ": _By the end of Saturday: Ideally, you should be finished with PAs for Chapter Y and done with the CAs for its first 4-5 sections._\n"
-            ": [](#)\n"
-            "   : **11:59PM** ⏰  Due: **Reflection**{: .label .label-yellow }\n"
-    ### NEW: Deadline for prev week's PAs, CAs, Reflection. Saturday 11:59pm            
-}
-
+holiday_prompt = ": **Holiday (no classes)**{: .label .label-red }"
+admin_prompt = ': <p class="text-grey-dk-000 mb-0">'
 
 ### https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/academic-calendars 
 holidays = {
     (1, 16) : "Martin Luther King Jr. Day", # January 17
     (2, 20) : "Presidents' Day", # February 21
-    # (5, 30) : "Memorial Day", # May 30
+    #(5, 30) : "Memorial Day", # May 30
 }
 
 ### https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/registration-pass-dates
 admin_dates = {
     (2, 6) : "Deadline to Drop Courses",
     (3, 17) : "Instruction Ends"
+#    (4, 22) : "Deadline to Drop Courses",
+#    (6, 3) : "Instruction Ends"
 }
 
-start_month = 1 # Jan
-start_monday = 9 # Jan 9
+start_month = 1 # jan
+start_monday = 9 # jan 9
 start_week = 1
 exclude_weekends = False #True
 include_days_of_week = False # whether to include "Mon", "Tue" with the day
 end_month = 3 # 
-end_day = 17 # the last day of classes, Final Exams June 4 - 10
+end_day = 24 # the last day of the Final Exams (quarter ends)
 
 num_days = 7
 num_weeks = 11 # stop before this week
@@ -222,9 +218,9 @@ while week < num_weeks: # loop through the weeks
             date_str = days[day] + ", " + date_str
         md_file.write(date_str)
         if holidays.get((month, cur_day)) != None: # if we found a holiday
-            md_file.write(": **Holiday (no classes)**{: .label .label-red }"+"{}\n\n".format(holidays[(month, cur_day)]))
+            md_file.write(f"{holiday_prompt}**{holidays[(month, cur_day)]}**\n\n")
         if admin_dates.get((month, cur_day)) != None:
-            md_file.write(': <p class="text-grey-dk-000 mb-0"><em>{}</em></p>\n\n'.format(admin_dates[(month, cur_day)]))
+            md_file.write(f'{admin_prompt}<em>{admin_dates[(month, cur_day)]}</em></p>\n\n')
         if due_dates.get(days[day]) != None: 
             if week > 1:
                 this_week = str(week).zfill(2)
@@ -235,13 +231,18 @@ while week < num_weeks: # loop through the weeks
                     due_str = due_str.replace(" and done with the CAs for its first 4-5 sections", "")
                 if week < 10:
                     due_str = due_str.replace("Chapter Y", f"Chapter {int(this_week)+1}").replace("Start on PA", f"Start on **PA{int(this_week)+1:0>2}**")
-                else: # week 10
-#due_str = due_str.replace("\n : _Finish CA{: .label .label-blue } + Start on PA{: .label .label-orange }_", "")
-                    due_str = due_str.replace("\n: _Finish the Weekly reflection._", "") # dont inlcude it, since there's one for the final project
-                    due_str = due_str.replace("**CA**{: .label .label-blue }","" ) # there are none in Ch10 (Files)
+                else: # last week of the term (week 10) 
+#due_str = due_str.replace("\n : _Finish CA{{: .label .label-blue } + Start on PA{{: .label .label-orange }_", "")
+
+                    due_str = due_str.replace(", **Reflection**{{: .label .label-yellow }}", "") # dont inlcude it, since there's one for the final project
+                    due_str = due_str.replace("**CA**{{: .label .label-blue }}","" ) # there are none in Ch10 (Files)
                     due_str = due_str.replace(": _By the end of Sunday: Ideally, you should be finished with PAs for Chapter Y and done with the CAs for its first 4-5 sections._", ": _By the end of Sunday: Ideally, you should be finished with LAs for Chapter 10, which are used in the **final project**._")
+
                 due_str = due_str.replace("**PA**", f"**PA{this_week}**").replace("**CA**", f"**CA{this_week}**").replace("**LA**", f"**LA{last_week}**").replace("Chapter X", "Chapter "+this_week)
                 due_str = due_str.replace("Finish CA", f"Finish **CA{this_week}**")
+
+                ### Remove an extra colon from the first line of each non-empty day
+                due_str = due_str.replace(": :", ":")
 
                 md_file.write(due_str + "\n\n")
             else:
