@@ -2,7 +2,7 @@
 layout: page
 title: CSW8 Syllabus
 nav_order: 1
-last_modified_date: 2022-03-28
+last_modified_date: 2023-01-03
 description: >-
     Course policies and information.
 ---
@@ -18,7 +18,7 @@ description: >-
 
 ---
 
-## UCSB CSW 8 (Introduction to Computer Science) Online Syllabus - Spring 2022   
+## UCSB CSW 8 (Introduction to Computer Science) Online Syllabus - Winter 2023 (Conrad)
 
 Introduction to computer program development is for students with little to no programming experience. 
 The course covers basic programming concepts, variables and expressions, data and control structures, algorithms, debugging, program design, testing, and documentation. Note: Programming is concepts + skill, and skill requires <span style="color:green">**practice**</span>.  
@@ -33,17 +33,17 @@ See [Gauchospace](https://gauchospace.ucsb.edu) for more information (Try the Zo
 
 You'll attend class and lab/discussion online via Zoom during the specified times, just like a physical class. Class time and labs **require synchronous interactions and active participation**.
 
-Reminder: You are **not** supposed to be registered for another UCSB course that overlaps with this one. If you have a course conflict, you **must have** specific written permission from **both** instructors to stay enrolled in both courses. We will _not_ make any accommodations for you.
+Reminder: You are **not** supposed to be registered for another UCSB course that overlaps with this one. If you have a course conflict, you **must have** specific written permission from **both** instructors to stay enrolled in both courses. We will _not_ make any accommodations for you if you have an overlapping class and do not seek and obtain this permission.
 
 **Required**: Computer/tablet access (_**not** smartphone_) with headphones, fast Internet, non-distracting area (not a coffee shop). You'll watch/listen to live video/audio, interact with classmates, and type to chat or code.  
 
 ---
 
-**Professor**: Yekaterina Kharitonova  / Prof K (pronouns: she/they)
+**Professor**: Prof. Phill Conrad (pronouns: he/him)
 
-**Course mentors** (TAs / ULAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
+**Course staff** (TAs / LAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
 
-**Class time**: Tuesday and Thursday, 9:30--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
+**Class time**: Monday and Wednesday, 9:30--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
 
 ---
 
@@ -54,18 +54,19 @@ Do not automatically assume that the course is the same as the one that you or y
 
 ### Textbook
 1. Create an account at [zyBooks.com](https://www.zybooks.com),
-2. Purchase a subscription [as described on Gauchospace](https://gauchospace.ucsb.edu/courses/mod/page/view.php?id=1639309). Please read the additional information and notes that are posted there.
+2. Purchase a subscription [as described here](https://ucsb-csw8.github.io/w23c/textbook/). 
 
-> Make sure to use your <span style="color:red">**7-digit student ID _without_ any dashes or spaces** (ONLY digits)</span>. (⚠️  <span style="color:orange">_You might fail the course if this ID is incorrectly entered._</span>)
+> Make sure to use your <span style="color:red">**7-digit student ID _without_ any dashes or spaces** (ONLY digits)</span>. (⚠️  <span style="color:orange">_You will not get credit for your work if this information is entered incorrectly._</span>)
 
 _zyBook will allow you to update your ID if you accidentally enter it incorrectly._
 
 Your ID must match the one you see on Gauchospace.
 
 ### Communication
-**Do _not_ message us individually**. 
 
-Please use the Q&A platform **Piazza** to communicate with the Instructor and course mentors (you can contact us directly via a non-public message addressed to the **Instructors**). You can also post on this forum **anonymously** to your classmates.
+**Pleaes do _not_ message the course staff individually**. 
+
+Please use the Q&A platform **Piazza** to communicate with the Instructor and course mentors (you can contact us directly via a non-public message addressed to the **Instructors**).
 
 We will always use only the official course platforms to reach out to you: posts on Piazza, Gauchospace, Gradescope, and ucsb email. 
 <span style="color:orange">If anyone contacts you through an unofficial channel claiming to be a mentor/instructor, offering to help you or to debug your code, please, _do not share your work_ and immediately send a message via Piazza to the Instructors.</span>
@@ -78,9 +79,9 @@ We recommend bookmarking the following links:
 * [Piazza](https://piazza.com) (Q&A forum)
 * [this course website]({{ site.url }}{{ site.baseurl }}) is for convenient access to the course information
 
-The link to the form to request an extension and to submit anonymous feedback are linked [below](#request-for-accommodations).
+<!-- The link to the form to request an extension and to submit anonymous feedback are linked [below](#request-for-accommodations). -->
 
-You will also submit your work through Google Forms or Qualtrics links - they will be shared during the class, posted via Gauchospace, or linked in the respective assignment.
+From time to time, you may also be asked to submit some assignments via Google Forms links.  These will be shared during the class, posted via Gauchospace, or linked in the respective assignment.
 
 For in-class participation, we will be using the [iClicker app](https://macmillan.force.com/iclicker/s/article/Remote-Instruction-iClicker-Cloud-Student-Onboarding-Resources), which is linked on Gauchospace - use that link to create an account or log in and you will automatically be added to the course.
 
@@ -114,7 +115,8 @@ Instead, it is based on the instructor's _direct knowledge_ of your outstanding 
 Such knowledge can be gained by the instructor through several conversations during the office hours, any outstanding extra credit work, student's independent projects that use course material, and/or helpful and informed participation on the forum, just to name a few examples.
 
 #### Note about P/NP
-This class _has to be taken for a letter grade_. The College of Engineering does not let students switch this course to Pass/No Pass (P/NP) regardless of the student's major.
+
+This class _can only be taken for a letter grade_. The College of Engineering does not let students switch this course to Pass/No Pass (P/NP) regardless of the student's major.   This is a college level policy; the instructor has no discretion to change it.
 
 ### Course structure and deadlines
 
