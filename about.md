@@ -148,7 +148,7 @@ You will be required to submit this form separately for all weeks in which you w
 
 ### Deadline extension for zyBook activities
 During the term, you can request **two 1-day extensions** for the weekly deadline of the **zyBook activities** (we can offer extension only for the zyBooks activities, not the quizzes, reflections, etc.). Do not contact us via the forum or the email, just [submit this form to request an extension](https://forms.gle/QQkXMfKswjDbCEi49) and select whether the extension is for the PAs, CAs, and/or LAs.
-* You need to submit this form **within a day of the respective 10pm** deadline.
+* You need to submit this form **within 24 hours** of the respective deadline.
 * We will not accept retroactive extension requests for previous weeks.
 * The deadline extensions **do not** apply to the **final project**.
 
@@ -156,6 +156,7 @@ If your situation is more serious and requires a longer extension, you need to p
 
 
 ### Personal / Technology / Health / Living Situation Issues
+
 If there are issues which are affecting your ability to meet course deadlines, please submit the request for an extension form as soon as you find out about the issue. Otherwise, _we do not accept late work or provide individual make-up assignments_.
 
 An extension due to an emergency must be based on an **official documentation** that shows 1) your _name_, 2) the _reason/issue_ description, and 3) _dates_ (e.g., even the processed tickets to fly home for an emergency can count as documentation as long as your name and dates are on them).
