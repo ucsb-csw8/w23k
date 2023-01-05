@@ -11,7 +11,7 @@ seo:
 
 ## Time Management and Scheduling
 
-We highly recommend that you follow the advice of the **Essentials of Time Management** section from the [Effective Strategies for Remote Learning](https://keeplearning.id.ucsb.edu/2020/03/22/effective-strategies-for-remote-learning), and create study blocks for this course. Remember to **add them to your calendar** and follow your schedule. See this 6-min ONDAS video on [How to Use Your Google Calendar](https://www.youtube.com/watch?v=daPu_IpIDl8).
+We highly recommend that you follow the advice of the **Essentials of Time Management** section from the [Effective Strategies for Remote Learning](https://ucsb-csw8.github.io/online-learning), and create study blocks for this course. Remember to **add them to your calendar** and follow your schedule. See this 6-min ONDAS video on [How to Use Your Google Calendar](https://www.youtube.com/watch?v=daPu_IpIDl8).
 
 A typical course expects that you will engage with the course material about 3-4 hours for per unit each week. Since this course is 4 units, you should expect to spend about 12-16 hours per week working on this course. Here's the rough weekly breakdown of where your time might go:
 * 3 hours of class time
