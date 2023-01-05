@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # This script helps generate the weekly schedule pages
 # that are stored in the _modules folder.
 # After updating the holidays and the other info
@@ -107,7 +108,7 @@ lab_due = "Tue"
 
 ### Add classes/labs to the schedule
 due_dates[class_days[0]] += f": {class_time} **Class**{{: .label .label-purple }}\n"
-due_dates[class_days[1]] += f": {class_time} **Class**{{: .label .label-purple }}\n"
+due_dates[class_days[1]] += f": {class_time} **Class**{{: .label .label-purple }} **Quiz**{{: .label .label-red}}\n"
 due_dates[lab_day] += f": **Lab sections**{{: .label .label-purple }}\n"
 
 ### NEW: Deadline for LA checkpoints (end of day, 11:59pm when lab occurs)  
@@ -185,7 +186,7 @@ start_month = 1 # jan
 start_monday = 9 # jan 9
 start_week = 1
 exclude_weekends = False #True
-include_days_of_week = False # whether to include "Mon", "Tue" with the day
+include_days_of_week = True # whether to include "Mon", "Tue" with the day
 end_month = 3 # 
 end_day = 24 # the last day of the Final Exams (quarter ends)
 
