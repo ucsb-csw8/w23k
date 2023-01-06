@@ -2,6 +2,10 @@
 title: Week 8
 topic: More Advanced Functions and Strings
 ---
+Sun, Feb 26
+: Start: **PA08**{: .label .label-orange }, **CA08**{: .label .label-blue }
+
+
 Mon, Feb 27
 : 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA07**{: .label .label-green }
@@ -23,9 +27,6 @@ Fri, Mar 3
 : 
 
 Sat, Mar 4
-: 
-
-Sun, Mar 5
 : **11:59pm**  ⏰  Due: **PA08**{: .label .label-orange }, **CA08**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
 
 

@@ -2,6 +2,10 @@
 title: Week 2
 topic: Objects, Functions, and Expressions
 ---
+Sun, Jan 15
+: Start: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
+
+
 Mon, Jan 16
 : **Holiday (no classes)**{: .label .label-red }**Martin Luther King Jr. Day**
 
@@ -25,9 +29,6 @@ Fri, Jan 20
 : 
 
 Sat, Jan 21
-: 
-
-Sun, Jan 22
 : **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
 
 

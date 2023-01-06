@@ -2,6 +2,10 @@
 title: Week 10
 topic: Storing and Retrieving Data from Files
 ---
+Sun, Mar 12
+: Start: **PA10**{: .label .label-orange }, **CA10**{: .label .label-blue }
+
+
 Mon, Mar 13
 : 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA09**{: .label .label-green }
@@ -25,9 +29,6 @@ Fri, Mar 17
 : 
 
 Sat, Mar 18
-: 
-
-Sun, Mar 19
 : **11:59pm**  ⏰  Due: **PA10**{: .label .label-orange }, **CA10**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
 
 

@@ -2,6 +2,9 @@
 title: Week 1
 topic: Introduction to Python 3
 ---
+Sun, Jan 8
+: [](#)
+
 Mon, Jan 9
 : [](#)
 
@@ -18,8 +21,5 @@ Fri, Jan 13
 : [](#)
 
 Sat, Jan 14
-: [](#)
-
-Sun, Jan 15
 : [](#)
 

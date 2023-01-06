@@ -2,6 +2,10 @@
 title: Week 3
 topic: Representing data (Types and Data Structures)
 ---
+Sun, Jan 22
+: Start: **PA03**{: .label .label-orange }, **CA03**{: .label .label-blue }
+
+
 Mon, Jan 23
 : 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA02**{: .label .label-green }
@@ -23,9 +27,6 @@ Fri, Jan 27
 : 
 
 Sat, Jan 28
-: 
-
-Sun, Jan 29
 : **11:59pm**  ⏰  Due: **PA03**{: .label .label-orange }, **CA03**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
 
 

@@ -2,6 +2,10 @@
 title: Week 7
 topic: Lists and Dictionaries
 ---
+Sun, Feb 19
+: Start: **PA07**{: .label .label-orange }, **CA07**{: .label .label-blue }
+
+
 Mon, Feb 20
 : **Holiday (no classes)**{: .label .label-red }**Presidents' Day**
 
@@ -25,9 +29,6 @@ Fri, Feb 24
 : 
 
 Sat, Feb 25
-: 
-
-Sun, Feb 26
 : **11:59pm**  ⏰  Due: **PA07**{: .label .label-orange }, **CA07**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
 
 

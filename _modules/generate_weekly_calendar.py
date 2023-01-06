@@ -66,13 +66,13 @@ month_name = {
 }
 
 days = {
-    1: "Mon",
-    2: "Tue",
-    3: "Wed",
-    4: "Thu",
-    5: "Fri",
-    6: "Sat",
-    7: "Sun"
+    1: "Sun",
+    2: "Mon",
+    3: "Tue",
+    4: "Wed",
+    5: "Thu",
+    6: "Fri",
+    7: "Sat"
 }
 
 due_dates = {}
@@ -106,6 +106,10 @@ lab_day = "Wed"
 lab_due = "Tue"
 """
 
+
+### NEW: Assign students to start upcoming week's PAs, CAs 
+due_dates["Sun"] += f": Start: **PA**{{: .label .label-orange }}, **CA**{{: .label .label-blue }}\n"
+
 ### Add classes/labs to the schedule
 due_dates[class_days[0]] += f": {class_time} **Class**{{: .label .label-purple }}\n"
 due_dates[class_days[1]] += f": {class_time} **Class**{{: .label .label-purple }} **Quiz**{{: .label .label-red}}\n"
@@ -118,7 +122,7 @@ due_dates[lab_day] += f": **{due_time}**  ⏰  Due: **LA Checkpoint**{{: .label 
 due_dates[lab_due] += f": **{due_time}**  ⏰  Due: **LA**{{: .label .label-green }}\n"
 
 ### NEW: Deadline for prev week's PAs, CAs, Reflection. Sunday 11:59pm
-due_dates["Sun"] += f": **{due_time}**  ⏰  Due: **PA**{{: .label .label-orange }}, **CA**{{: .label .label-blue }}, **Reflection**{{: .label .label-yellow }}\n"
+due_dates["Sat"] += f": **{due_time}**  ⏰  Due: **PA**{{: .label .label-orange }}, **CA**{{: .label .label-blue }}, **Reflection**{{: .label .label-yellow }}\n"
 
 
   
@@ -183,7 +187,7 @@ admin_dates = {
 }
 
 start_month = 1 # jan
-start_monday = 9 # jan 9
+start_day = 8 # jan 8 is first day of calendar 
 start_week = 1
 exclude_weekends = False #True
 include_days_of_week = True # whether to include "Mon", "Tue" with the day
@@ -197,7 +201,7 @@ if exclude_weekends:
 
 
 month = start_month
-cur_day = start_monday
+cur_day = start_day
 week = start_week
 
 while week < num_weeks: # loop through the weeks
