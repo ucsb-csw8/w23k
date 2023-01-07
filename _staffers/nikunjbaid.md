@@ -1,7 +1,7 @@
 ---
 name: Nikunj Baid
-pronouns: Him/his
 role: Teaching Assistant
+pronouns: Him/his
 photo: Nikunj-Baid.png
 ---
 
