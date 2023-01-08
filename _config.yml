@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSW8 W22C # displayed over the sidebar
+title: CSW8 W23C # displayed over the sidebar
 tagline: CSW 8 - Introduction to Computer Science # Shown as a title on the page
-description: Spring 2022 with Prof. Conrad
+description: Winter 2023 with Prof. Conrad
 author: Phill Conrad
 baseurl: '/w23c' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
