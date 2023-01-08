@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSW8 W22C # displayed over the sidebar
+title: CSW8 W23K # displayed over the sidebar
 tagline: CSW 8 - Introduction to Computer Science # Shown as a title on the page
-description: Spring 2022 with Prof. Conrad
-author: Phill Conrad
-baseurl: '/w23c' # the subpath of your site, e.g. /blog
+description: Winter 2023 with Prof. K
+author: Yekaterina Kharitonova
+baseurl: '/w23k' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Custom variables
-www: 'https://ucsb-csw8.github.io/w23c' # to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
+www: 'https://ucsb-csw8.github.io/w23k' # to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
 
 
 # Back to top link
@@ -37,8 +37,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/ucsb-csw8/w23c" # the github URL for your repo
+gh_edit_link_text: "Edit on GitHub"
+gh_edit_repository: "https://github.com/ucsb-csw8/w23k" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -49,8 +49,8 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 #ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
 # Theme settings
-# remote_theme: pmarsceill/just-the-docs@v0.3.3
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+#theme: just-the-docs
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -59,16 +59,16 @@ aux_links:
   zyBooks:
     - 'https://learn.zybooks.com/zybook/UCSBCMPSCW8Winter2023'
   Piazza:
-    - 'https://piazza.com/class/lcgvkxcns62kr/'
+    - 'https://piazza.com/class/lcl1mbc5frw2cw/'
   Gauchospace:
-    - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=45433'
+    - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=48508'
   Gradescope:
-    - 'https://www.gradescope.com/courses/481334'
+    - 'https://www.gradescope.com/courses/484136/'
   "Main CS8 W Site":
     - 'https://ucsb-csw8.github.io'
 aux_links_new_tab: true
 
-footer_content: 'Phill Conrad &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Yekaterina Kharitonova &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
