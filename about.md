@@ -64,7 +64,7 @@ Your ID must match the one you see on Gauchospace.
 
 ### Communication
 
-**Pleaes do _not_ message the course staff individually**. 
+**Please do _not_ message the course staff individually**. 
 
 Please use the Q&A platform **Piazza** to communicate with the Instructor and course mentors (you can contact us directly via a non-public message addressed to the **Instructors**).
 
@@ -79,7 +79,7 @@ We recommend bookmarking the following links:
 * [Piazza](https://piazza.com) (Q&A forum)
 * [this course website]({{ site.url }}{{ site.baseurl }}) is for convenient access to the course information
 
-<!-- The link to the form to request an extension and to submit anonymous feedback are linked [below](#request-for-accommodations). -->
+The link to the form to request an extension and to submit anonymous feedback are linked [below](#request-for-accommodations)
 
 From time to time, you may also be asked to submit some assignments via Google Forms links.  These will be shared during the class, posted via Gauchospace, or linked in the respective assignment.
 
