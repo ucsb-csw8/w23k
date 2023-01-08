@@ -2,7 +2,7 @@
 name: Zechen Ma
 role: Teaching Assistant
 pronouns: him/his
-photo: 404.png
+photo: ZechenMa.png
 ---
 
 Hi folks, welcome to CS8! My name is Zechen Ma, and I go by Z/Zee if you find my fist name hard to pronounce. 
