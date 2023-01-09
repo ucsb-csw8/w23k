@@ -22,10 +22,13 @@ baseurl: '/w23k' # TODO: the subpath of your site, e.g. /blog
 url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-# Custom variables
+# TODO updtae custom variables
 www: 'https://ucsb-csw8.github.io/w23k' # TODO: to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
 due_time: '11:59PM' # TODO: also update it in the _modules script
-lab_day: 'Tuesday' # TODO: this day is used throughout the syllabus
+lab_day: 'Wednesday' # TODO: this day is used throughout the syllabus
+prof_intro: "Prof. Yekaterina Kharitonova (pronouns: she/they)" # used in the syllabus to introduce the prof
+classtime_intro: "TR, 9:30--10:45am PT (Pacific/California time),"
+syllabus_title: "(Winter 2023; Kharitonova)"
 
 # TODO: update the URLs if using Google forms
 # TODO: check that the forms are active

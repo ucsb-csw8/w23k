@@ -18,7 +18,7 @@ description: >-
 
 ---
 
-## UCSB CSW 8 (Introduction to Computer Science) Online Syllabus - Winter 2023 (Kharitonova)
+## UCSB CSW 8 (Introduction to Computer Science) Online Syllabus {{ site.syllabus_title }} 
 
 Introduction to computer program development is for students with little to no programming experience. 
 The course covers basic programming concepts, variables and expressions, data and control structures, algorithms, debugging, program design, testing, and documentation. Note: Programming is concepts + skill, and skill requires <span style="color:green">**practice**</span>.  
@@ -39,11 +39,11 @@ Reminder: You are **not** supposed to be registered for another UCSB course that
 
 ---
 
-**Professor**: Prof. Yekaterina Kharitonova (pronouns: she/they)
+**Professor**: {{ site.prof_intro }}
 
 **Course staff** (TAs / LAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
 
-**Class time**: TR, 9:30--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
+**Class time**: {{ site.classtime_intro }} synchronously on Zoom (the link is posted on Gauchospace)
 
 ---
 
@@ -54,7 +54,7 @@ Do **not** automatically assume that the course is the same as the one that you 
 
 ### Textbook
 1. Create an account at [zyBooks.com](https://www.zybooks.com),
-2. Purchase a subscription [as described here](https://ucsb-csw8.github.io/w23c/textbook/). 
+2. Purchase a subscription [as described here]({{ site.www }}/textbook/). 
 
 > Make sure to use your <span style="color:red">**7-digit student ID _without_ any dashes or spaces** (ONLY digits)</span>. (⚠️  <span style="color:orange">_You will not get credit for your work if this information is entered incorrectly._</span>)
 
