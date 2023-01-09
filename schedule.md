@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Schedule
+title: Schedule and Office Hours
 nav_order: 4
 description: The weekly schedule.
 ---
 
-# Weekly Schedule
+# {{ page.title }}
 
-See the [Schedule and Roadmap]({{site.url}}/{{site.baseurl}}/success/#time-management-and-scheduling) suggestions for organizing your time. 
+<style>
+  iframe { width: 100%; height: 1400px; }
+</style>
 
-Use the same Zoom link for lab and office hours as you use for lecture.
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zN2JjZThlZWEwZDllMjlhM2I0MWZkOGQ0NzllNGY1ZDViNmM4ZGFiOTNmYzljYzQ5ZDY4YTc0ZjE4ZmUyYjBhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23EF6C00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-You can also [schedule a meeting with Prof. K using this link](https://appt.link/ykk).
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
