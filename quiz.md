@@ -152,26 +152,6 @@ Then, we can make sure that whatever adjustments we make to grades are made equi
 We hope you can see why that’s important, and we appreciate your cooperation.
 
 
-
----
-
-# Make-up / Replacement Quiz
-
-_**In addition to**_ the original lowest dropped quiz, students will have an opportunity to _optionally_ replace **one** 
-of their quiz grades with a make-up quiz.
-
-* At the end of the quarter, during the CSW 8 “final exam” slot, you’ll have an opportunity to take the replacemet quiz.
-  * as shown on GOLD, the reserved exam slot is on **Tue, June 7**.
-    * This quiz will start at **10:30am** and will close at **11am**.
-    * We recommend starting the quiz at that time, otherwise, you might not have enough time to finish it.
-    * Do not start the quiz too close to the ending quiz time: you might not have enough time to finish the quiz.
-  * this quiz is **not** a final exam; it is **not** mandatory.
-
-This opportunity effectively means that there will be **a total of 2 dropped quizzes**:
-* Taking this quiz will NOT harm your quiz score in any way.
-* If you are hoping to improve your Quiz scores, then if you take the quiz and score higher on the replacement, the other lower scores will be dropped. If, for some reason, you score lower, this quiz will not affect your Quiz score, since they will be the ones that will be dropped.
-* If you are happy with your Quiz scores, you do not need to take this quiz; if you don't take it, the score will be 0, and even if you do take it and score lower, the score will be part of the lowest scores that will be dropped.
-
 ## Academic Integrity
 An academic integrity violation on a replacement quiz will result in **all** student's quiz scores being replaced with a 0.
 
