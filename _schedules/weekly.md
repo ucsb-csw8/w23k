@@ -30,48 +30,60 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Office Hours
-        start: 1:00 PM
-        end: 3:00 PM
-        location: Nicholas
-      - name: Office Hours
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Ajit
-      - name: Office Hours
-        start: 5:00 PM
-        end: 7:00 PM
-        location: Deept
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 8:30 AM
+        end: 9:30 AM
+        location: Prof K
+      - name: Class
+        start: 9:30 AM
+        end: 10:45 AM
+        location: Zoom
+  - name: Wednesday
     events:
       - name: Section
         start: 09:00 AM
         end: 09:50 AM
-        location: Zoom (Staff names TBD)
+        location: Zoom (Staff TBD)
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
-        location: Zoom (Staff names TBD)
+        location: Zoom (Staff TBD)
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
-        location: Zoom (Staff names TBD)
+        location: Zoom (Staff TBD)
       - name: Section
         start: 12:00 PM
         end: 12:50 PM
-        location: Zoom (Staff names TBD)
+        location: Zoom (Staff TBD)
       - name: Section
         start: 1:00 PM
         end: 1:50 PM
-        location: Zoom (Staff names TBD) 
-  - name: Wednesday
+        location: Zoom (Staff TBD) 
+      - name: Section
+        start: 2:00 PM
+        end:   2:50 PM
+        location: Zoom (Staff TBD) 
+      - name: Section
+        start: 3:00 PM
+        end:   3:50 PM
+        location: Zoom (Staff TBD) 
+      - name: Section
+        start: 4:00 PM
+        end:   4:50 PM
+        location: Zoom (Staff TBD) 
+  - name: Thursday
     events:
-      - name: Lecture
+      - name: Class
         start: 9:30 AM
         end: 10:45 AM
         location: Zoom
-  - name: Thursday
-    events:
+      - name: Office Hours
+        start: 10:45 AM
+        end: 11:30 AM
+        location: Prof K
   - name: Friday
     events:
 ---

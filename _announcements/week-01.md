@@ -16,11 +16,11 @@ Hello world! 🖖
     - [Create an email filter for CSW8 messages]({{site.url}}/{{site.baseurl}}/success#create-an-email-filter)
 - Subscribe to the e-textbook ([zybooks](https://zybooks.com), pronounced as **zEYE-book**) following [these instructions]({{site.url}}/{{site.baseurl}}/textbook).
     - This interactive online textbook is required and the subscription must be purchased _individually_. A large portion of your course grade will depend on the activities that you will complete and submit in this zyBook.
-    - After subscribing, please, go to <https://learn.zybooks.com/library> and read through the **“How to Use zyBooks”** book.
+    - After buy the book (subscribing), please, go to <https://learn.zybooks.com/library> and read through the **“How to Use zyBooks”** book.
 
 <span style="color:green">_Next steps_</span>
 - Fill out the **Welcome Survey** linked on Gauchospace.
 - Start reading Week 1 and Week 2 chapters on zyBooks
 - Attend the synchronous class
-- You will be added to the course forum (Piazza) and the Gradescope site on **Tuesday evening**, after the first lecture, once we close the waitlist. In the meantime, you can use the form that's linked on the Syllabus page to submit any questions that you have.
+- Create an accont for the course forum (Piazza) and the Gradescope site.
 

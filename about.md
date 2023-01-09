@@ -43,12 +43,12 @@ Reminder: You are **not** supposed to be registered for another UCSB course that
 
 **Course staff** (TAs / LAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
 
-**Class time**: Monday and Wednesday, 9:30--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
+**Class time**: TR, 9:30--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
 
 ---
 
 _Make sure that you read this page carefully and are aware of the course policies **for this term**. 
-Do not automatically assume that the course is the same as the one that you or your friends might have taken before._
+Do **not** automatically assume that the course is the same as the one that you or your friends might have taken before._
 
 ---
 
@@ -77,11 +77,13 @@ We recommend bookmarking the following links:
 * [zybook](https://learn.zybooks.com/library) (PAs, CAs, LAs -- see below), 
 * [Gradescope](https://www.gradescope.com) (quizzes, some labs, project), 
 * [Piazza](https://piazza.com) (Q&A forum)
-* [this course website]({{ site.url }}{{ site.baseurl }}) is for convenient access to the course information
+* [iClicker app](https://join.iclicker.com/), which is linked (with the Join Code) on Gauchospace
+* Google forms (e.g., links posted on Gauchospace for weekly reflections)
+* (optional) [this course website]({{ site.url }}{{ site.baseurl }}) - for convenient access to the course information; all relevant links from here are posted on Gauchospace
 
 <!-- The link to the form to request an extension and to submit anonymous feedback are linked [below](#request-for-accommodations). -->
 
-From time to time, you may also be asked to submit some assignments via Google Forms links.  These will be shared during the class, posted via Gauchospace, or linked in the respective assignment.
+<!-- From time to time, you may also be asked to submit some assignments via Google Forms links.  These will be shared during the class, posted via Gauchospace, or linked in the respective assignment.-->
 
 For in-class participation, we will be using the [iClicker app](https://macmillan.force.com/iclicker/s/article/Remote-Instruction-iClicker-Cloud-Student-Onboarding-Resources), which is linked on Gauchospace - use that link to create an account or log in and you will automatically be added to the course.
 
