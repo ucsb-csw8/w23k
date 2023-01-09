@@ -21,35 +21,9 @@ A typical course expects that you will engage with the course material about 3-4
 * 2-4 hours outside of lab to finish the lab; make sure you work on it a few days before the deadline, so that you have enough time to get help if you get stuck.
 * 1-2 hours participating on the forum / debugging / attending office hours (see the [posted schedule]({{site.url}}/{{site.baseurl}}/schedule))
 
-**Add these times to your calendar and follow your schedule**! We highly recommend watching this 4.5-minute video from the ONDAS Student Center
+
+We  recommend watching this 4.5-minute video from the ONDAS Student Center
 on [Getting Organized For Online Classes](https://www.youtube.com/watch?v=EUv9iU4-C4s).
-
-
-## Roadmap
-In our course, each week covers roughly 1 chapter, and we have the following course activities that are found in our online textbook, zyBooks:
-* **PA**{: .label .label-orange }(Participation Activities), 
-* **CA**{: .label .label-blue }(Challenge Activities), 
-* **LA**{: .label .label-green }(Lab Activities).
-
-✨ Pro Tip✨ : We recommend reading through the sections and completing the PAs as you read. _After you finished reading the chapter_, come back to complete the CAs in each section. Finish most CAs _before_ you join the labs.
-
-Additionally, each week you are asked to reflect on your week and your learning by submitting a weekly **reflection**.
-
-All due times in our class are at **10PM Pacific time (22:00)**. Add the days/times as recurring events on your Calendar.
-
----
-
-| Day | Due | Recommended Activity |
-|---|-----|----------------------|
-| Mon | 10PM: PAs | **Async activity**: Read the book, and work on/finish PA in zybooks _before_ the first class meeting of the week; prepare/review the questions to ask. |
-| Tue | 10PM: CAs | **Class 1**: Synchronous activities. Join the class via Zoom and be prepared to ask questions or ask for clarifications and additional examples, and to work with your classmates. |
-|     |     | **Async activity**: Work on/finish related CAs and LAs _before_ the lab on Wed. |
-| Wed | 10PM: LAs | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. Students have until _next week_ to finish/submit the LA. |
-|     |     | **Async activity**: Work on/finish related CA and LA in zybooks |
-| Thu | 10PM: LA Checkpt    | **Class 2**: Synchronous activities. Join the class via Zoom and ask questions or ask for clarifications and additional examples and/or review the quiz questions. Be prepared to work with your classmates. |
-|     |     | **Async activity**: Review concepts, work on/finish related CA and LA |
-| Sat |     | **Async activity**: Finish the Weekly reflection - review the past week, reflect on your learning, provide feedback, note any lingering questions. |
-| Sun | 10PM: Reflection | **Async activity**: Read the book, review concepts, and work on/finish PA, CA, and LA |
 
 
 ✨ Pro Tip✨ : _**Do not try to complete all chapter sections in one sitting**_! We recommend spending **no more than 2 hours** in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions. 
@@ -64,7 +38,7 @@ All due times in our class are at **10PM Pacific time (22:00)**. Add the days/ti
 
 ## Create an email filter
 
-We recommend that you set up a filter for the messages that relate to this course.
+You may find it helpful to set up a filter for the messages that relate to this course (or your other courses)
 
 Let's assume that you are using your UCSB email in the browser.
 * In the search-box, paste the following: `"CMPSCW 8" OR "CSW 8"`
