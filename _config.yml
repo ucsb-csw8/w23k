@@ -13,18 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSW8 W23K # displayed over the sidebar
+title: CSW8 W23K # TODO: displayed over the sidebar
 tagline: CSW 8 - Introduction to Computer Science # Shown as a title on the page
-description: Winter 2023 with Prof. K
-author: Yekaterina Kharitonova
-baseurl: '/w23k' # the subpath of your site, e.g. /blog
+description: Winter 2023 with Prof. K # TODO
+author: Yekaterina Kharitonova # TODO
+baseurl: '/w23k' # TODO: the subpath of your site, e.g. /blog
+
 url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Custom variables
-www: 'https://ucsb-csw8.github.io/w23k' # to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
-due_time: '11:59PM'
-lab_day: 'Tuesday' # this day is used throughout the syllabus
+www: 'https://ucsb-csw8.github.io/w23k' # TODO: to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
+due_time: '11:59PM' # TODO: also update it in the _modules script
+lab_day: 'Tuesday' # TODO: this day is used throughout the syllabus
 
 # TODO: update the URLs if using Google forms
 # TODO: check that the forms are active
@@ -45,7 +46,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit on GitHub"
-gh_edit_repository: "https://github.com/ucsb-csw8/w23k" # the github URL for your repo
+gh_edit_repository: "https://github.com/ucsb-csw8/w23k" # TODO: the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -62,7 +63,7 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
+aux_links: # TODO - update to yours
   zyBooks:
     - 'https://learn.zybooks.com/zybook/UCSBCMPSCW8Winter2023'
   Piazza:
@@ -75,6 +76,7 @@ aux_links:
     - 'https://ucsb-csw8.github.io'
 aux_links_new_tab: true
 
+# TODO - change to your name
 footer_content: 'Yekaterina Kharitonova &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
