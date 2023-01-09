@@ -118,18 +118,25 @@ This class _can only be taken for a letter grade_. The College of Engineering do
 
 ### Course structure and deadlines
 
-<span style="color:green">Each week covers one chapter in zyBooks</span> (_Week 1 is the exception, the assignments for that week are due along with the assignments for Week 2_). Due each week (always, at <span style="color:green">**10 o’clock**</span>):
+<span style="color:green">Each week covers one chapter in zyBooks</span>.
 
-> **PA**{: .label .label-orange }(Participation Activities): due **before** the 1st class of the week <span style="color:green">Monday 10PM</span> 
+There are four types of activities:
 
-> **CA**{: .label .label-blue }(Challenge Activities): due **before** the labs <span style="color:green">Tuesday 10PM</span>
+> **PA**{: .label .label-orange }(Participation Activities): You should start these on Sunday each week and try to work on them throughout the week. Ideally, you'll have started them before lecture on Monday, and will have tried to complete all of them before Wednesday lecture.  They are not technically due until <span style="color:green">Saturday 11:59PM</span>, but the intention is for you to do them as preparation for lecture to check your understanding of the reading.
 
-> **LA**{: .label .label-green }(Lab Activities): on <span style="color:green">Wednesday 10PM</span> (submit them before 9am to focus on the labs for the new week)
+> **CA**{: .label .label-blue }(Challenge Activities): You should try to attempt these before your lab session on Tuesday; they are intended to prepare you for the programming assignments that you'll start working on in lab on Tuesday.  However, they are not technically due untio <span style="color:green">Saturday 11:59PM</span>
+
+> **LA Checkpoints**{: .label .label-green }(Lab Checkpoints): These are activities that you'll start in lab on Tuesday, and if all goes well, you'll be able to finish them in lab.  If you do need extra time, you can take until midnight on Tuesday, but the intention is for you to complete them in lab before you leave.  Due <span style="color:green">Tuesday 11:59PM</span>.
+
+> **LA**{: .label .label-green }(Lab Activities): You'll start these in lab on Tuesday (after the Checkpoint LAs) and the continue working on them throughout the week.  They are due  <span style="color:green">the following week at Monday 11:59PM</span> 
+
+> **Reflections**{: .label .label-purple }(Lab Activities): These are done at the end of the week, typically on Thursday or Friday; it's typically a short survey with a few multiple choice questions and a few short answer questions.  They are due at the same time as the PAs, and CAs, i.e. <span style="color:green">Saturday 11:59PM</span> 
 
 Deadlines for all activities are available on Gauchospace (and are listed on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar)). 
 
 <span style="color:green">These are hard deadlines beyond which we **will not accept late submissions**.</span>
-During the quarter, you can request an extension for the zyBook activities (we can offer extensions only for the zyBooks activities) - see more information [below](#request-for-accommodations).
+
+During the quarter, you can request one extension if you have a documented reason (see [below](#request-for-accommodations).)
 
 It is the responsibility of each student to make sure their activity grades on zybooks are completed as expected and the correct score is displayed on Gauchospace. A portion of the LA score may be based on hidden tests and our manual inspection of code. Some of the labs might need to be submitted on Gradescope - the lab will specify it in the instructions.
 
@@ -139,13 +146,14 @@ It is the responsibility of each student to make sure their activity grades on z
 Any such requests need to be arranged with the DSP (see their contact information [below](#disabled-students-program-dsp)). 
 
 ### Athletic / University-approved Accommodations
-As soon as possible, submit your documented accommodation and attach the documentation (e.g., a signed letter from the coach with the tournament dates _with your name on it_) via 
+
+As soon as possible, submit your documented accommodation and attach the documentation (e.g., for varsity sports related absences, a signed letter from the coach with the tournament dates _with your name on it_) via 
 the request for an extension form
 linked [below](#request-for-accommodations).
 You will be required to submit this form separately for all weeks in which you will need the accommodation.
 
 ### Deadline extension for zyBook activities
-During the term, you can request **two 1-day extensions** for the weekly deadline of the **zyBook activities** (we can offer extension only for the zyBooks activities, not the quizzes, reflections, etc.). Do not contact us via the forum or the email, just [submit this form to request an extension](https://forms.gle/QQkXMfKswjDbCEi49) and select whether the extension is for the PAs, CAs, and/or LAs.
+During the term, you can request **one extension** for a particular weeks activities. Do not contact us via the Piazza forum or via email. Instead, just [submit this form to request an extension](https://forms.gle/QQkXMfKswjDbCEi49) and select whether the extension is for the PAs, CAs, and/or LAs.
 * You need to submit this form **within 24 hours** of the respective deadline.
 * We will not accept retroactive extension requests for previous weeks.
 * The deadline extensions **do not** apply to the **final project**.
@@ -158,6 +166,7 @@ If your situation is more serious and requires a longer extension, you need to p
 If there are issues which are affecting your ability to meet course deadlines, please submit the request for an extension form as soon as you find out about the issue. Otherwise, _we do not accept late work or provide individual make-up assignments_.
 
 An extension due to an emergency must be based on an **official documentation** that shows 1) your _name_, 2) the _reason/issue_ description, and 3) _dates_ (e.g., even the processed tickets to fly home for an emergency can count as documentation as long as your name and dates are on them).
+
 You can black out any sensitive information and send it through [the request for an extension form](https://forms.gle/QQkXMfKswjDbCEi49) **as soon as possible**. Please, do not contact us asking for a longer extension without providing the **official documentation** that lists the 3 required pieces of information. 
 
 ---
