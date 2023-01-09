@@ -18,7 +18,8 @@ Jan 11
 : **11:59PM** ⏰  Due: **LA01 Checkpoint**{: .label .label-green }
 
 Jan 12
-: 09:30am **Class**{: .label .label-purple }
+: 09:30am **Class**{: .label .label-purple }**Practice Quiz**{: .label .label-red}
+: Note: the Practice Quiz will not require any studying; it's literally just practicing the mechanism of taking the quiz to make sure that all of the systems work properly, so you know what to expect the following week.
 
 Jan 13
 : [](#)
