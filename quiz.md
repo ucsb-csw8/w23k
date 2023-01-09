@@ -166,6 +166,5 @@ Quiz logistics guidelines are the same as above.
 * One of the questions might assign you a random version _provided by Gauchospace_ that might need to be submitted on _Gradescope_.
 
 ## Follow-up questions
-If you have read the above guidelines and have additional questions, then post them on Piazza with a **title "Replacement Quiz", and link to this page**
-to let us know that you've read these guidelines.
+If you have read the above guidelines and have additional questions, then post them on Piazza.
 
