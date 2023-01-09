@@ -2,7 +2,7 @@
 layout: page
 title: CSW8 Syllabus
 nav_order: 1
-last_modified_date: 2023-01-03
+last_modified_date: 2023-01-09
 description: >-
     Course policies and information.
 ---
@@ -18,7 +18,7 @@ description: >-
 
 ---
 
-## UCSB CSW 8 (Introduction to Computer Science) Online Syllabus - Winter 2023 (Conrad)
+## UCSB CSW 8 (Introduction to Computer Science) Online Syllabus - Winter 2023 (Kharitonova)
 
 Introduction to computer program development is for students with little to no programming experience. 
 The course covers basic programming concepts, variables and expressions, data and control structures, algorithms, debugging, program design, testing, and documentation. Note: Programming is concepts + skill, and skill requires <span style="color:green">**practice**</span>.  
@@ -39,7 +39,7 @@ Reminder: You are **not** supposed to be registered for another UCSB course that
 
 ---
 
-**Professor**: Prof. Phill Conrad (pronouns: he/him)
+**Professor**: Prof. Yekaterina Kharitonova (pronouns: she/they)
 
 **Course staff** (TAs / LAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
 
@@ -118,20 +118,28 @@ This class _can only be taken for a letter grade_. The College of Engineering do
 
 ### Course structure and deadlines
 
-<span style="color:green">Each week covers one chapter in zyBooks</span> (_Week 1 is the exception, the assignments for that week are due along with the assignments for Week 2_). Due each week (always, at <span style="color:green">**10 o’clock**</span>):
+<span style="color:green">Each week covers one chapter in zyBooks</span>.
+<!--(_Week 1 is the exception, the assignments for that week are due along with the assignments for Week 2_).-->
+Due each week (always, at <span style="color:green">**{{ site.due_time }}**</span>):
 
-There are four types of activities:
-TODO
+There are four types of activities in zyBook:
+<!--TODO-->
 
-> **PA**{: .label .label-orange }(Participation Activities): You should start these on Sunday each week and try to work on them throughout the week. Ideally, you'll have started them before lecture on Monday, and will have tried to complete all of them before Wednesday lecture.  They are not technically due until <span style="color:green">Saturday 11:59PM</span>, but the intention is for you to do them as preparation for lecture to check your understanding of the reading.
+> **PA**{: .label .label-orange }(Participation Activities): You should start these on Sunday each week and try to work on them throughout the week. Ideally, you'll have started them before the first class of the week, and will have tried to complete all of them before the next class.  They are not technically due until <span style="color:green">Saturday {{ site.due_time }}</span>, but the intention is for you to do them as preparation for lecture to check your understanding of the reading.
 
-> **CA**{: .label .label-blue }(Challenge Activities): You should try to attempt these before your lab session on Tuesday; they are intended to prepare you for the programming assignments that you'll start working on in lab on Tuesday.  However, they are not technically due untio <span style="color:green">Saturday 11:59PM</span>
+> **CA**{: .label .label-blue }(Challenge Activities): You should attempt these before your lab session on {{ site.lab_day }}; they are intended to prepare you for the programming assignments that you'll start working on in lab on {{ site.lab_day }}.  However, they are not technically due until <span style="color:green">Saturday {{ site.due_time }}</span>
 
-> **LA Checkpoints**{: .label .label-green }(Lab Checkpoints): These are activities that you'll start in lab on Tuesday, and if all goes well, you'll be able to finish them in lab.  If you do need extra time, you can take until midnight on Tuesday, but the intention is for you to complete them in lab before you leave.  Due <span style="color:green">Tuesday 11:59PM</span>.
+> **LA Checkpoints**{: .label .label-green }(Lab Checkpoints): These are activities that you'll start in lab on {{ site.lab_day }}, and if all goes well, you'll be able to finish them in lab.  If you do need extra time, you can take until midnight on {{ site.lab_day }}, but the intention is for you to complete them in lab before you leave.  Due <span style="color:green">{{ site.lab_day }} {{ site.due_time }}</span>.
 
-> **LA**{: .label .label-green }(Lab Activities): You'll start these in lab on Tuesday (after the Checkpoint LAs) and the continue working on them throughout the week.  They are due  <span style="color:green">the following week at Monday 11:59PM</span> 
+> **LA**{: .label .label-green }(Lab Activities): You'll start these in lab on {{ site.lab_day }} (after the Checkpoint LAs) and the continue working on them throughout the week.  They are due  <span style="color:green">the following week on Tuesday {{ site.due_time }}</span> 
 
-> **Reflections**{: .label .label-purple }(Lab Activities): These are done at the end of the week, typically on Thursday or Friday; it's typically a short survey with a few multiple choice questions and a few short answer questions.  They are due at the same time as the PAs, and CAs, i.e. <span style="color:green">Saturday 11:59PM</span> 
+Additionally, part of your participation score includes:
+
+> **Reflections**{: .label .label-yellow }(Lab Activities): These are done at the end of the week, typically on Thursday or Friday; it's typically a short survey with a few multiple choice questions and a few short answer questions.  They are due at the same time as the PAs, and CAs, i.e. <span style="color:green">Saturday {{ site.due_time }}</span> 
+
+> **Class participation**{: .label .label-purple }: These are occur during the synchronous class and times. There is no way to make them up, so please be prepared to attend class and participate. Some of the activities will be done using iClicker (see the [Grading](#grading) section). 
+
+In addition to synchronous participation, in-class activities include **Quiz**{: .label .label-red } assignments, which always start on Gauchospace.
 
 Deadlines for all activities are available on Gauchospace (and are listed on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar)). 
 
@@ -210,7 +218,7 @@ UCSB provides academic accommodations to students with disabilities. DSP serves 
 
 ### Diversity and Inclusiveness
 
-The University of California, Santa Barbara has a general i[Code of Conduct and Principles of Community](https://cs.ucsb.edu/diversity-equity-inclusion/code-conduct) for all students, staff, and faculty.
+The University of California, Santa Barbara has a general [Code of Conduct and Principles of Community](https://cs.ucsb.edu/diversity-equity-inclusion/code-conduct) for all students, staff, and faculty.
 
 We (instructor and mentors) strive to create an environment in which students from diverse backgrounds and perspectives can be well-served and where the diversity that the students bring to this class is viewed as a resource, strength, and benefit. We intend to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, culture, or religion (or lack thereof). 
 
