@@ -124,7 +124,7 @@ There are six types of activities:
 
 > **PA**{: .label .label-orange }(Participation Activities): You should start these on Sunday each week and try to work on them throughout the week. Ideally, you'll have started them before lecture on Monday, and will have tried to complete all of them before Wednesday lecture.  They are not technically due until <span style="color:green">Saturday 11:59PM</span>, but the intention is for you to do them as preparation for lecture to check your understanding of the reading.
 
-> **CA**{: .label .label-blue }(Challenge Activities): You should try to attempt these before your lab session on Tuesday; they are intended to prepare you for the programming assignments that you'll start working on in lab on Tuesday.  However, they are not technically due untio <span style="color:green">Saturday 11:59PM</span>
+> **CA**{: .label .label-blue }(Challenge Activities): You should try to attempt these before your lab session on Tuesday; they are intended to prepare you for the programming assignments that you'll start working on in lab on Tuesday.  However, they are not technically due until <span style="color:green">Saturday 11:59PM</span>
 
 > **LA Checkpoints**{: .label .label-green }(Lab Checkpoints): These are activities that you'll start in lab on Tuesday, and if all goes well, you'll be able to finish them in lab.  If you do need extra time, you can take until midnight on Tuesday, but the intention is for you to complete them in lab before you leave.  Due <span style="color:green">Tuesday 11:59PM</span>.
 
