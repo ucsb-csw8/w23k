@@ -22,8 +22,37 @@ A typical course expects that you will engage with the course material about 3-4
 * 1-2 hours participating on the forum / debugging / attending office hours (see the [posted schedule]({{site.url}}/{{site.baseurl}}/schedule))
 
 
+
 We  recommend watching this 4.5-minute video from the ONDAS Student Center
 on [Getting Organized For Online Classes](https://www.youtube.com/watch?v=EUv9iU4-C4s).
+
+
+# Roadmap
+In our course, each week covers roughly 1 chapter, and we have the following course activities that are found in our online textbook, zyBooks:
+* **PA**{: .label .label-orange }(Participation Activities), 
+* **CA**{: .label .label-blue }(Challenge Activities), 
+* **LA**{: .label .label-green }(Lab Activities).
+
+✨ Pro Tip✨ : We recommend reading through the sections and completing the PAs as you read. _After you finished reading the chapter_, come back to complete the CAs in each section. Finish most CAs _before_ you join the labs.
+
+Additionally, each week you are asked to reflect on your week and your learning by submitting a weekly **reflection**.
+
+All due times in our class are at **{{ site.due_time }} Pacific time**. Add the days/times as recurring events on your Calendar.
+
+---
+
+| Day | Due | Recommended Activity |
+|---|-----|----------------------|
+| Sun |  | **Async activity**: Read the book, and work on/finish PA in zybooks _before_ the first class meeting of the week; prepare/review the questions to ask. |
+| Mon | **{{site.due_time}}**: LAs | **Class 1**: Synchronous activities. Join the class via Zoom and be prepared to ask questions or ask for clarifications and additional examples, and to work with your classmates. |
+| Mon |  | **Async activity**: Work on/finish related PA, CA and LA in zybooks |
+|     |     | **Async activity**: Work on/finish related CAs and LAs _before_ the lab on Wed. |
+| Tue | **{{site.due_time}}**: LA Checkpt  | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. Students have until _next week_ to finish/submit the LA. |
+|     |     | **Async activity**: Work on/finish related CA and LA in zybooks |
+| Wed |    | **Class 2**: Synchronous activities. Join the class via Zoom and ask questions or ask for clarifications and additional examples and/or review the quiz questions. Be prepared to work with your classmates. |
+| Thu |     | **Async activity**: Review concepts, work on/finish related CA and LA |
+| Fri    |     | **Async activity**: Finish the Weekly reflection - review the past week, reflect on your learning, provide feedback, note any lingering questions. |
+| Sat | **{{site.due_time}}**: PAs, CAs, Reflection  | **Async activity**: Review concepts, work on/finish related CA and LA |
 
 
 ✨ Pro Tip✨ : _**Do not try to complete all chapter sections in one sitting**_! We recommend spending **no more than 2 hours** in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions. 
