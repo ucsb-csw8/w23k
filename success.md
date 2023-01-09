@@ -46,7 +46,7 @@ All due times in our class are at **{{ site.due_time }} Pacific time**. Add the 
 | Sun |  | **Async activity**: Read the book, and work on/finish PA in zybooks _before_ the first class meeting of the week; prepare/review the questions to ask. |
 | Mon | **{{site.due_time}}**: LAs | **Class 1**: Synchronous activities. Join the class via Zoom and be prepared to ask questions or ask for clarifications and additional examples, and to work with your classmates. |
 | Mon |  | **Async activity**: Work on/finish related PA, CA and LA in zybooks |
-|     |     | **Async activity**: Work on/finish related CAs and LAs _before_ the lab on Wed. |
+|     |     | **Async activity**: Work on/finish related CAs and LAs _before_ the lab on {{site.lab_day}}. |
 | Tue | **{{site.due_time}}**: LA Checkpt  | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. Students have until _next week_ to finish/submit the LA. |
 |     |     | **Async activity**: Work on/finish related CA and LA in zybooks |
 | Wed |    | **Class 2**: Synchronous activities. Join the class via Zoom and ask questions or ask for clarifications and additional examples and/or review the quiz questions. Be prepared to work with your classmates. |
