@@ -2,7 +2,7 @@
 name: Varshika Srinivasavaradhan
 role: Teaching Assistant
 pronouns: she/her/hers
-photo: ![IMG_9907](https://user-images.githubusercontent.com/37286747/211232300-5b39518b-4db8-4e49-ba3b-70f3a0f783f0.jpg)
+photo: Varshika.png
 ---
 
 Hello people, welcome to CSW8! 
