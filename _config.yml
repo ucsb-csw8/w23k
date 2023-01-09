@@ -23,6 +23,9 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Custom variables
 www: 'https://ucsb-csw8.github.io/w23c' # to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
+due_time: '11:59PM'
+lab_day: 'Tuesday' # this day is used throughout the syllabus
+
 
 
 # Back to top link
