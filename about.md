@@ -120,7 +120,7 @@ This class _can only be taken for a letter grade_. The College of Engineering do
 
 <span style="color:green">Each week covers one chapter in zyBooks</span>.
 
-There are four types of activities:
+There are six types of activities:
 
 > **PA**{: .label .label-orange }(Participation Activities): You should start these on Sunday each week and try to work on them throughout the week. Ideally, you'll have started them before lecture on Monday, and will have tried to complete all of them before Wednesday lecture.  They are not technically due until <span style="color:green">Saturday 11:59PM</span>, but the intention is for you to do them as preparation for lecture to check your understanding of the reading.
 
@@ -131,6 +131,9 @@ There are four types of activities:
 > **LA**{: .label .label-green }(Lab Activities): You'll start these in lab on Tuesday (after the Checkpoint LAs) and the continue working on them throughout the week.  They are due  <span style="color:green">the following week at Monday 11:59PM</span> 
 
 > **Reflections**{: .label .label-purple }(Lab Activities): These are done at the end of the week, typically on Thursday or Friday; it's typically a short survey with a few multiple choice questions and a few short answer questions.  They are due at the same time as the PAs, and CAs, i.e. <span style="color:green">Saturday 11:59PM</span> 
+
+In addition to synchronous participation, in-class activities include **Quiz**{: .label .label-red } assignments, which always start on Gauchospace.
+
 
 Deadlines for all activities are available on Gauchospace (and are listed on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar)). 
 
