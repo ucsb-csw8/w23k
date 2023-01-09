@@ -2,31 +2,31 @@
 title: Week 6
 topic: Repeating and iterating (Loops)
 ---
-Sun, Feb 12
+Feb 12
 : Start: **PA06**{: .label .label-orange }, **CA06**{: .label .label-blue }
 
 
-Mon, Feb 13
+Feb 13
+: 
+
+Feb 14
 : 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA05**{: .label .label-green }
 
 
-Tue, Feb 14
+Feb 15
 : **Lab sections**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA Checkpoint**{: .label .label-green }
 
 
-Wed, Feb 15
+Feb 16
 : 09:30am **Class**{: .label .label-purple } **Quiz**{: .label .label-red}
 
 
-Thu, Feb 16
+Feb 17
 : 
 
-Fri, Feb 17
-: 
-
-Sat, Feb 18
+Feb 18
 : **11:59pm**  ⏰  Due: **PA06**{: .label .label-orange }, **CA06**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
 
 

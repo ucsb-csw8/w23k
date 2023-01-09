@@ -152,9 +152,9 @@ Then, we can make sure that whatever adjustments we make to grades are made equi
 We hope you can see why that’s important, and we appreciate your cooperation.
 
 
-
 ---
 
+<!--
 # Make-up / Replacement Quiz
 
 _**In addition to**_ the original lowest dropped quiz, students will have an opportunity to _optionally_ replace **one** 
@@ -188,4 +188,4 @@ Quiz logistics guidelines are the same as above.
 ## Follow-up questions
 If you have read the above guidelines and have additional questions, then post them on Piazza with a **title "Replacement Quiz", and link to this page**
 to let us know that you've read these guidelines.
-
+-->

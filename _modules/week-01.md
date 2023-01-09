@@ -2,24 +2,29 @@
 title: Week 1
 topic: Introduction to Python 3
 ---
-Sun, Jan 8
+
+Jan 8
 : [](#)
 
-Mon, Jan 9
+Jan 9
+: Start: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
+
+Jan 10
+: 09:30am **Class**{: .label .label-purple }: First class of the quarter! ✨
+
+Jan 11
+: **Lab sections**{: .label .label-purple }: First lab sessions 🎊
+: **11:59PM** ⏰  Due: **➡️**{: .label .label-yellow } Post team info on Piazza
+: **11:59PM** ⏰  Due: **LA01 Checkpoint**{: .label .label-green }
+
+Jan 12
+: 09:30am **Class**{: .label .label-purple }
+
+Jan 13
 : [](#)
 
-Tue, Jan 10
-: [](#)
+Jan 14
+: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
+: **11:59pm** ⏰  Due: **Welcome survey**{: .label .label-yellow } on Gauchospace
 
-Wed, Jan 11
-: [](#)
-
-Thu, Jan 12
-: [](#)
-
-Fri, Jan 13
-: [](#)
-
-Sat, Jan 14
-: [](#)
 

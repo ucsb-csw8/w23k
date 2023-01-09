@@ -95,7 +95,8 @@ Yes, zybooks is our “textbook.”
 
 ### Where do I find the zyBooks code to subscribe to the book?
 
-The access/enrollment code is posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
+<!--The access/enrollment code is posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).-->
+See the [Textbook]({{ site.url }}{{ site.baseurl }}/textbook) page linked on the sidebar.
 
 
 ### Do I have to buy the book if I am re-taking the class?
@@ -106,7 +107,7 @@ Contact `support@zybooks.com` and let them know that you are retaking the course
 ### How do I update my student ID in zyBooks?
 
 You can do it from the **My Subscription** tab, which you can access from the main zyBooks page that lists all chapters.
-See the instructions / screenshot posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
+<!-- See the instructions / screenshot posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)). -->
 
 
 ### Is there an option for students who cannot currently afford the zybook subscription? Can I defer the purchase of the zyBook?
@@ -141,7 +142,7 @@ You can also see the **overall completion** of _each_ of the zyBook activities w
 
 ✨ Pro Tip✨ : We recommend spending no more than 2 hours in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions.
 
-Please follow the [suggested workflow and the roadmap]({{ site.url }}{{ site.baseurl }}/success)).
+Please follow the [suggested workflow and the roadmap]({{ site.url }}{{ site.baseurl }}/success).
 
 
 ### How many chances do we have for each question on zybooks?
@@ -150,7 +151,7 @@ Related questions:
 * How many attempts do I have to submit zyBook activities? 
 * Do we have unlimited attempts to submit our labs?
 
-You have unlimited attempts. You can also work on the problems after the deadline, but your progress will not count toward your score.
+You have unlimited attempts on PAs. CAs as well as LAs. You can also continue to work on the problems after the deadline, but your progress will not count toward your score.
 
 
 
@@ -298,13 +299,13 @@ This course has a consistent weekly pattern to help you manage your workload and
 Set those dates and reminders on your calendar to proactively keep track of the assignments yourself.
 See additional information and resources that we provided on the [How to Succeed in CSW 8]({{site.url}}/{{site.baseurl}}/about) page. 
 
-Mondays, Tuesdays and Wednesdays are when the zyBooks activities are due (**hard deadlines**) and are expected to be completed. 
-We recommend finishing your work in zyBooks **_before_** those times (e.g., try to finish everything the night before it is due, so that you have enough time to ask for help). 
+<!--Mondays, Tuesdays and Wednesdays are when the zyBooks activities are due (**hard deadlines**) and are expected to be completed. 
+We recommend finishing your work in zyBooks **_before_** those times (e.g., try to finish everything the night before it is due, so that you have enough time to ask for help). -->
 
-In-class quizzes and activities will assume that you have completed the materials. 
+In-class quizzes and activities will assume that you have completed the materials. The quizzes always cover the material from the **previous weeks**.
 
-If you know in advance that you will not be able to complete the activities before the due date, you can submit a request for an extension. 
-The extension is there to give you a chance to finish up the activity or two; it is not intended for you to spend the entire day trying to get from 0 to 100%.
+<!--If you know in advance that you will not be able to complete the activities before the due date, you can submit a request for an extension. 
+The extension is there to give you a chance to finish up the activity or two; it is not intended for you to spend the entire day trying to get from 0 to 100%.-->
 
 We cannot stress enough how important it is to create a study plan for this class and to follow it consistently.
 
@@ -339,13 +340,14 @@ Related questions:
 See the corresponding section in the [Syllabus]({{site.url}}/{{site.baseurl}}/about#online-class).
 
 Synchronous class time and lab section attendance are **required**. 
+
 We will have quizzes and participation activities during the scheduled class, so having a conflict with another class/activity might jeopardize your ability to participate (potentially affecting your grade).
 
 Whenever possible/reasonable, we will record those sessions and post them on Gauchospace (under that Week's tab) for you to review/refer to them. 
 These recordings are not a substitute for your participation.
 
 If the **lab section** that you are registered for conflicts with your schedule, feel free to attend the section that works for you (there's no need to make any changes on GOLD).
-When registering for zyBooks, select the lab section that you _plan to attend_.
+<!--When registering for zyBooks, select the lab section that you _plan to attend_.-->
 
 
 ### Getting Help

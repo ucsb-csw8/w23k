@@ -97,6 +97,7 @@ topic = {
 class_time = "09:30am"
 due_time = "11:59pm"
 
+"""
 class_days = ["Mon", "Wed"]
 lab_day = "Tue"
 lab_due = "Mon"
@@ -104,7 +105,6 @@ lab_due = "Mon"
 class_days = ["Tue", "Thu"]
 lab_day = "Wed"
 lab_due = "Tue"
-"""
 
 
 ### NEW: Assign students to start upcoming week's PAs, CAs 
@@ -190,7 +190,8 @@ start_month = 1 # jan
 start_day = 8 # jan 8 is first day of calendar 
 start_week = 1
 exclude_weekends = False #True
-include_days_of_week = True # whether to include "Mon", "Tue" with the day
+#include_days_of_week = True # whether to include "Mon", "Tue" with the day
+include_days_of_week = False # whether to include "Mon", "Tue" with the day
 end_month = 3 # 
 end_day = 24 # the last day of the Final Exams (quarter ends)
 

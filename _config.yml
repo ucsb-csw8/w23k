@@ -23,7 +23,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Custom variables
 www: 'https://ucsb-csw8.github.io/w23k' # to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
-
+due_time: '11:59PM'
 
 # Back to top link
 back_to_top: true

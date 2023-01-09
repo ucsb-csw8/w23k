@@ -14,7 +14,7 @@ Hello world! 🖖
 - Read [How to Succeed in CSW 8]({{site.url}}/{{site.baseurl}}/success)
     - Add the [weekly pattern/deadlines to your calendar]({{site.url}}/{{site.baseurl}}/success/#roadmap)
     - [Create an email filter for CSW8 messages]({{site.url}}/{{site.baseurl}}/success#create-an-email-filter)
-- Subscribe to the e-textbook ([zybooks](https://zybooks.com), pronounced as **zEYE-book**) following the [instructions posted on the Main tab on Gauchospace](https://gauchospace.ucsb.edu/courses/mod/page/view.php?id=1639309).
+- Subscribe to the e-textbook ([zybooks](https://zybooks.com), pronounced as **zEYE-book**) following [these instructions]({{site.url}}/{{site.baseurl}}/textbook).
     - This interactive online textbook is required and the subscription must be purchased _individually_. A large portion of your course grade will depend on the activities that you will complete and submit in this zyBook.
     - After subscribing, please, go to <https://learn.zybooks.com/library> and read through the **“How to Use zyBooks”** book.
 
