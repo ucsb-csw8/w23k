@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSW8 (S22)
+title: CSW8 (W23K)
 nav_exclude: true
 seo:
   type: Course
