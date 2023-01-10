@@ -2,7 +2,7 @@
 name: Yanchen Lu
 role: Teaching Assistant
 pronouns: she/her/hers
-photo: YanchenLu.jpg
+photo: YanchenLu.png
 ---
 
 Hello! My name is Yanchen and I'm a 2nd year Master student in Computer Science. I've dabbled in Computational Linguistics research before when I was at the University of Illinois Urbana-Champaign, where I earn a B.S. in Computer Science and a B.A. in Linguistics. My current research interests lean more into the field of Human-Computer Interaction, so things like AR/VR, and creating expressive computational technologies for artists, designers, and engineers.
