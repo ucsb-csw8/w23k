@@ -48,7 +48,7 @@ Please see the answer above and the ["Attendance"](#attendance) section below fo
 
 ### Do labs happen during the section time?
 
-Yes, the **Wednesday** section time that you are enrolled in is the lab time.
+Yes, the **{{ site.lab_day }}** section time that you are enrolled in is the lab time.
 
 
 ### How do we check when our lab is?
@@ -60,17 +60,19 @@ Check your schedule on [GOLD](https://my.sa.ucsb.edu/gold/login.aspx).
 
 
 ### Can I change/switch my lab section?
-
+ <!--
 Yes, you are welcome to attend whichever lab section works with your schedule. 
 No need to get a new add code and switch it on GOLD. 
 Just make sure that when you are registering for your zyBook, you **select the section that you are _going to be attending_**.
+-->
+This will be covered in the first class of the quarter.
 
 See the ["Attendance"](#attendance) section below for more information.
 
 
 ### Are lab activities and lab sessions not the same thing?
 
-We refer to the Wednesday lab section times as _lab sessions_. The _lab activities_ (LAs) that you complete in zyBooks are different from the session times - they refer to the lab assignments posted in zyBooks.
+We refer to the {{ site.lab_day }} lab section times as _lab sessions_. The _lab activities_ (LAs) that you complete in zyBooks are different from the session times - they refer to the lab assignments posted in zyBooks.
 
 
 ### What is the "Lab Checkpoint" score in gradebook?
@@ -95,8 +97,7 @@ Yes, zybooks is our “textbook.”
 
 ### Where do I find the zyBooks code to subscribe to the book?
 
-<!--The access/enrollment code is posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).-->
-See the [Textbook]({{ site.url }}{{ site.baseurl }}/textbook) page linked on the sidebar.
+The access/enrollment code is posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
 
 
 ### Do I have to buy the book if I am re-taking the class?
@@ -107,7 +108,7 @@ Contact `support@zybooks.com` and let them know that you are retaking the course
 ### How do I update my student ID in zyBooks?
 
 You can do it from the **My Subscription** tab, which you can access from the main zyBooks page that lists all chapters.
-<!-- See the instructions / screenshot posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)). -->
+See the instructions / screenshot posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
 
 
 ### Is there an option for students who cannot currently afford the zybook subscription? Can I defer the purchase of the zyBook?
@@ -142,7 +143,7 @@ You can also see the **overall completion** of _each_ of the zyBook activities w
 
 ✨ Pro Tip✨ : We recommend spending no more than 2 hours in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions.
 
-Please follow the [suggested workflow and the roadmap]({{ site.url }}{{ site.baseurl }}/success).
+Please follow the [suggested workflow and the roadmap]({{ site.url }}{{ site.baseurl }}/success)).
 
 
 ### How many chances do we have for each question on zybooks?
@@ -151,7 +152,7 @@ Related questions:
 * How many attempts do I have to submit zyBook activities? 
 * Do we have unlimited attempts to submit our labs?
 
-You have unlimited attempts on PAs. CAs as well as LAs. You can also continue to work on the problems after the deadline, but your progress will not count toward your score.
+You have unlimited/infinite attempts. You can also work on the problems after the deadline, but your progress will not count toward your score.
 
 
 
@@ -188,8 +189,7 @@ Yes, this is our main communication platform. Guidelines for how to use it are i
 
 ### Is there a code for Piazza?
 
-No need to enter any code. You need to **activate your account** for this course using the email that was sent to your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
-
+No need to enter any code. 
 Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
 
 If you have multiple accounts on Piazza with different email addresses, you can add them to you account to merge the accounts:
@@ -198,10 +198,9 @@ If you have multiple accounts on Piazza with different email addresses, you can 
 * add your email under “Other emails”.
 
 
-
 ### I do not see the "CSW 8" course on Gradescope and/or Piazza. What can I do?
 
-Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
+Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu) and activated it using the link that was sent to you by Piazza
 
 You might need to go through the activation link in the email sent to you by Gradescope/Piazza.
 
@@ -223,6 +222,14 @@ We recommend submitting your code to Gradescope periodically to backup your subm
 ### If we submit our labs onto Gradescope multiple times, will the newest version be the one graded?
 
 Yes, your latest submission will be the one that’s used for grading.
+
+---
+
+## iClicker
+
+### Do I need to buy a physical remote?
+
+No remote is necessary. You need to use either the web interface or install the iClicker app on a mobile device.
 
 ---
 
@@ -299,13 +306,14 @@ This course has a consistent weekly pattern to help you manage your workload and
 Set those dates and reminders on your calendar to proactively keep track of the assignments yourself.
 See additional information and resources that we provided on the [How to Succeed in CSW 8]({{site.url}}/{{site.baseurl}}/about) page. 
 
-<!--Mondays, Tuesdays and Wednesdays are when the zyBooks activities are due (**hard deadlines**) and are expected to be completed. 
-We recommend finishing your work in zyBooks **_before_** those times (e.g., try to finish everything the night before it is due, so that you have enough time to ask for help). -->
+We recommend finishing your work in zyBooks **_before_** the due times (e.g., try to finish everything the night before it is due, so that you have enough time to ask for help). 
 
-In-class quizzes and activities will assume that you have completed the materials. The quizzes always cover the material from the **previous weeks**.
+In-class quizzes and activities will assume that you have completed the materials. 
 
-<!--If you know in advance that you will not be able to complete the activities before the due date, you can submit a request for an extension. 
-The extension is there to give you a chance to finish up the activity or two; it is not intended for you to spend the entire day trying to get from 0 to 100%.-->
+<!--
+If you know in advance that you will not be able to complete the activities before the due date, you can submit a request for an extension. 
+The extension is there to give you a chance to finish up the activity or two; it is not intended for you to spend the entire day trying to get from 0 to 100%.
+-->
 
 We cannot stress enough how important it is to create a study plan for this class and to follow it consistently.
 
@@ -340,14 +348,13 @@ Related questions:
 See the corresponding section in the [Syllabus]({{site.url}}/{{site.baseurl}}/about#online-class).
 
 Synchronous class time and lab section attendance are **required**. 
-
 We will have quizzes and participation activities during the scheduled class, so having a conflict with another class/activity might jeopardize your ability to participate (potentially affecting your grade).
 
 Whenever possible/reasonable, we will record those sessions and post them on Gauchospace (under that Week's tab) for you to review/refer to them. 
 These recordings are not a substitute for your participation.
 
 If the **lab section** that you are registered for conflicts with your schedule, feel free to attend the section that works for you (there's no need to make any changes on GOLD).
-<!--When registering for zyBooks, select the lab section that you _plan to attend_.-->
+When registering for zyBooks, select the lab section that you _plan to attend_.
 
 
 ### Getting Help
@@ -368,8 +375,7 @@ Below are the main ways for you to ask for help (from fastest to slowest respons
     * Please, follow the posted forum guidelines (a pinned post) to make it easier for us to respond. 
     * We cannot guarantee that last-minute posts before a deadline would receive a timely response, so please **start early** and plan your work accordingly. 
 
-* we have a fully-anonymous form where you can ask questions or send your suggestions: <https://forms.gle/jobjhJjWXsmcV3pp6>
-
+* we have a fully-anonymous form where you can ask questions or send your suggestions: {{ site.anon_form }}
 #### How do I send a direct message to TAs or professor?
 
 Please contact us via Piazza. Read the pinned post there titled _Posting Guidelines_, which describes how to submit a direct message to the **Instructors**.
@@ -418,6 +424,7 @@ If you ever need to send the professor a direct email, make sure to **include "C
 #### I have a question that has not been addressed here. What should I do?
 
 Use any of the mechanisms described above in the [Getting Help](#getting-help) section to submit your query.
+
 
 
 
