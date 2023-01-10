@@ -188,7 +188,8 @@ Yes, this is our main communication platform. Guidelines for how to use it are i
 
 ### Is there a code for Piazza?
 
-No need to enter any code. 
+No need to enter any code. You need to **activate your account** for this course using the email that was sent to your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
+
 Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
 
 If you have multiple accounts on Piazza with different email addresses, you can add them to you account to merge the accounts:
@@ -196,7 +197,6 @@ If you have multiple accounts on Piazza with different email addresses, you can 
 * select “[Account/Email Settings](https://piazza.com/account_settings)”
 * add your email under “Other emails”.
 
-_Note: As was mentioned in the Welcome Email sent from Gauchospace ("Spring into action with CSW 8 (S22)!"), you will receive an email about being added to Piazza on **Tuesday evening**, after the first lecture, once we close the waitlist._
 
 
 ### I do not see the "CSW 8" course on Gradescope and/or Piazza. What can I do?
