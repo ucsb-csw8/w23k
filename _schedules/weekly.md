@@ -30,6 +30,26 @@ timeline:
 schedule:
   - name: Monday
     events:
+      - name: Office Hours
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Shamita
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Gita
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:00 AM
+        location: Pengfei
+      - name: Office Hours
+        start: 5:00 PM
+        end: 7:00 PM
+        location: Carina
+      - name: Office Hours
+        start: 7:00 PM
+        end: 9:00 PM
+        location: Yifan
   - name: Tuesday
     events:
       - name: Office Hours
@@ -40,42 +60,58 @@ schedule:
         start: 9:30 AM
         end: 10:45 AM
         location: Zoom
+      - name: Office Hours
+        start: 11:30 AM
+        end: 12:30 AM
+        location: Gita
+      - name: Office Hours
+        start: 1:00 AM
+        end: 3:00 AM
+        location: Yunhao
   - name: Wednesday
     events:
       - name: Section
         start: 09:00 AM
         end: 09:50 AM
-        location: Zoom (Staff TBD)
+        location: Xinyu
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
-        location: Zoom (Staff TBD)
+        location: Nikunj
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
-        location: Zoom (Staff TBD)
+        location: Pengfei
       - name: Section
         start: 12:00 PM
         end: 12:50 PM
-        location: Zoom (Staff TBD)
+        location: Carina
       - name: Section
         start: 1:00 PM
         end: 1:50 PM
-        location: Zoom (Staff TBD) 
+        location: Yifan 
       - name: Section
         start: 2:00 PM
         end:   2:50 PM
-        location: Zoom (Staff TBD) 
+        location: Peter 
       - name: Section
         start: 3:00 PM
         end:   3:50 PM
-        location: Zoom (Staff TBD) 
+        location: Ajit 
       - name: Section
         start: 4:00 PM
         end:   4:50 PM
-        location: Zoom (Staff TBD) 
+        location: Kimia
+      - name: Office Hours
+        start: 5:00 PM
+        end: 7:00 PM
+        location: Ajit
   - name: Thursday
     events:
+      - name: Office Hours
+        start: 8:00 AM
+        end: 9:00 AM
+        location: Shamita
       - name: Class
         start: 9:30 AM
         end: 10:45 AM
@@ -84,6 +120,26 @@ schedule:
         start: 10:45 AM
         end: 11:30 AM
         location: Prof K
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:00 PM
+        location: Kimia
+      - name: Office Hours
+        start: 3:00 PM
+        end: 5:00 PM
+        location: Xinyu
+      - name: Office Hours
+        start: 6:00 PM
+        end: 8:00 PM
+        location: Jiabao
   - name: Friday
     events:
+      - name: Office Hours
+        start: 9:00 AM
+        end: 11:00 AM
+        location: Nikunj
+      - name: Office Hours
+        start: 4:00 PM
+        end: 6:00 PM
+        location: Peter
 ---
