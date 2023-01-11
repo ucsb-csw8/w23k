@@ -40,7 +40,7 @@ schedule:
         location: Gita
       - name: Office Hours
         start: 1:00 PM
-        end: 3:00 AM
+        end: 3:00 PM
         location: Pengfei
       - name: Office Hours
         start: 5:00 PM
