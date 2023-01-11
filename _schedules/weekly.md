@@ -62,7 +62,7 @@ schedule:
         location: Zoom
       - name: Office Hours
         start: 11:30 AM
-        end: 12:30 AM
+        end: 12:30 PM
         location: Gita
       - name: Office Hours
         start: 1:00 AM
