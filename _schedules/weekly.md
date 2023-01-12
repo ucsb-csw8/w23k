@@ -65,8 +65,8 @@ schedule:
         end: 12:30 PM
         location: Gita
       - name: Office Hours
-        start: 1:00 AM
-        end: 3:00 AM
+        start: 1:00 PM
+        end: 3:00 PM
         location: Yunhao
   - name: Wednesday
     events:
