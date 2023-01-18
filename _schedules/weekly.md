@@ -73,35 +73,35 @@ schedule:
       - name: Section
         start: 09:00 AM
         end: 09:50 AM
-        location: Xinyu
+        location: Xinyu, Kimia
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
-        location: Nikunj
+        location: Nikunj, Xinyu
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
-        location: Pengfei
+        location: Pengfei, Nikunj
       - name: Section
         start: 12:00 PM
         end: 12:50 PM
-        location: Carina
+        location: Carina, Yifan
       - name: Section
         start: 1:00 PM
         end: 1:50 PM
-        location: Yifan 
+        location: Yifan, Peter 
       - name: Section
         start: 2:00 PM
         end:   2:50 PM
-        location: Peter 
+        location: Peter, Pengfei 
       - name: Section
         start: 3:00 PM
         end:   3:50 PM
-        location: Ajit 
+        location: Ajit, Carina 
       - name: Section
         start: 4:00 PM
         end:   4:50 PM
-        location: Kimia
+        location: Kimia, Ajit
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
