@@ -176,7 +176,7 @@ If there are issues which are affecting your ability to meet course deadlines, p
 
 An extension due to an emergency must be based on an **official documentation** that shows 1) your _name_, 2) the _reason/issue_ description, and 3) _dates_ (e.g., even the processed tickets to fly home for an emergency can count as documentation as long as your name and dates are on them).
 
-You can black out any sensitive information and send it through [the request for an extension form]({{ site.exeptions_form }}) **as soon as possible**. Please, do not contact us asking for a longer extension without providing the **official documentation** that lists the 3 required pieces of information. 
+You can black out any sensitive information and send it through [the request for an extension form]({{ site.exceptions_form }}) **as soon as possible**. Please, do not contact us asking for a longer extension without providing the **official documentation** that lists the 3 required pieces of information. 
 
 ---
 
