@@ -4,7 +4,7 @@ week: 2
 date: 2023-01-20
 ---
 
-# 🎭 Week 2: Objects, Functions, and Expressions
+# 🐣 Week 2: Objects, Functions, and Expressions
 
 Dear all,
 
@@ -16,12 +16,15 @@ We hope you all had a great start to your quarter and that you are enjoying lear
     - Formatted strings in Python
     - Different kinds of errors 
     - and much more!
+
 * As mentioned in the [Syllabus]({{site.url}}/{{site.baseurl}}/about#online-class): this class "_require synchronous interactions and active participation._" 
-    - This week, during class, we worked through two labs/activities (LAs 2.17 and 2.18 in zyBooks).
+    - This week, during the Tue class, we worked through the lab activity (_LA 2.18 Week 2 In-class activity - Calorie expenditure_ in zyBooks). As mentioned in class on Thu, your score from it was added to your in-class participation but it won't be counted in your LA01 labs, since we marked it as optional.
     - In the lab, just like in class, we focused on writing functions, including the reasons for doing so.
     - We had our first quiz (Quiz 1) and the results have been released on Gauchospace. 
-        - Quizzes are announced in advance (i.e., during the previous week and/or previous class time). 
+        - Quizzes are scheduled to take place each Thursday at the start of the class. 
         - Any regrade requests should be submitted through a form that's linked in the quiz description on Gauchospace.
+
+* The iClicker scores from _this week_ will not be counted in your participation. Refer to the Syllabus policies about the generous dropped scores and see Thu recording for an explanation of those policies.
 * The slides and class recordings as well as the videos from the class and lab sections are posted on Gauchospace (look for the ⏩ icon; use your <span style="color:red">**UCSB address**</span> - we won't be granting access to personal gmail accounts.)
 
 ℹ️ Pay attention to the **Troubleshooting** section of the zyLabs, especially, the **checkpoint** labs - we aggregate the most common issues that we see in the office hours and on Piazza, and add them there with the suggested solutions.
@@ -29,11 +32,13 @@ If you run into an issue, check those sections first.
 
 
 ## ⏰ Week 2 and 3 - Due dates and Deadlines ⏰
-As you can see on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar#week-2), the due dates this week included:
-* ⏰  **Tuesday 11:59PM**: **LA01**
-* ⏰  **Wednesday 11:59PM**: complete the zyLabs with the word "Checkpoint" in their title.
-* ⏰  **Saturday 11:59PM**: Week 2 reflection - the link to it is available under the Week 2 tab on Gauchospace + **PA02** + **CA02**.
-* Work on completing Week 2 lab activities (LA02) _before Wednesday 9am_ - ask for clarifications during the [office hours]({{site.url}}/{{site.baseurl}}/schedule/), lab sessions, or post your questions on [Piazza]({{site.aux_links.Piazza}}) (you can watch the Week 1 Th class recording to see how to make a new post/post a follow-up)
+As you can see on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar#week-2), the due dates for this week included:
+* ⏰  **Tuesday, 1/17, 11:59PM**: **LA01** (in zyBooks, LAB ).
+* ⏰  **Wednesday, 1/18, 11:59PM**: complete the zyLabs with the word "Checkpoint" in their title.
+* ⏰  **Saturday, 1/21, 11:59PM**: Week 2 reflection - the link to it is available under the Week 2 tab on Gauchospace
+* ⏰  **Saturday, 1/21, 11:59PM**:  **PA02** + **CA02** in zyBooks are due.
+
+Work on completing **LA02** (Week 2 lab activities in zyBooks, LAB 2.10 - 2.16) _before Monday 9am_ - so that you have enough time to ask for clarifications during the [office hours]({{site.url}}/{{site.baseurl}}/schedule/), lab sessions, or post your questions on [Piazza]({{site.aux_links.Piazza}}) (you can watch the Week 1 Th class recording to see how to make a new post/post a follow-up)
 
 The deadlines **next week** are:
 * ⏰ **Tuesday 11:59PM** Due: **LA02**
@@ -41,18 +46,19 @@ The deadlines **next week** are:
 * ⏰ **Saturday 11:59PM** Due: **Weekly reflection** that will be posted on Gauchospace + **PA03** + **CA03**
 
 
-## ➡️    Staying on Track
+## Staying on Track
 
 🔮 [Looking ahead to Week 3]({{site.url}}/{{site.baseurl}}/calendar#week-3), your tasks for the upcoming days are:
 * Do not try to memorize everything! 💎
     - We will work with strings, tuples, lists, and dictionaries a lot in the following weeks, so we will revisit them again.
-    - Get a sense of what each data structure (the data type) does by noticing similarities and differences.
+    - Get a sense of what each data structure (i.e., the data type) does by noticing similarities and differences.
     - The "📎 Quick access" notes within the zyBooks sections point you to the resources you will definitely need to reference, so make a note of them.
-* Write down anything that's unclear and questions to ask during class
+* Write down anything that's unclear and ask those questions during class
 * Carefully read through the guide for [Translating Lab Instructions Into Code]({{site.url}}/{{site.baseurl}}/ref/labtocode). 
 
 If you haven't already done so, please complete the action items that we posted for you in our first announcement (you can see it in the ["Getting Started" post on the website]({{site.url}}/{{site.baseurl}}/announcements/) or under the Week 1 tab on Gauchospace. 
     - We specifically recommend [creating an email filter for CSW8 messages]({{site.url}}/{{site.baseurl}}/success#create-an-email-filter) to make sure that you see the announcements and emails from us in your primary inbox.
+
 
 If you ever have any questions, please, _first_ consult the [course syllabus]({{site.url}}/{{site.baseurl}}/about) and the [Frequently Asked Questions (FAQ) section]({{site.url}}/{{site.baseurl}}/faq). A lot of [course structure, helpful hints, and expectations]({{site.url}}/{{site.baseurl}}/faq/#weekly-pattern-and-planning-your-work) are also outlined for you on that page.
 
@@ -75,7 +81,7 @@ Section 5.11 discusses the `if __name__ == "__main__"` block.
 
 Week 5 is also when we will begin to work with Gradescope - since we are not using it yet, don't worry about it.
 
-In closing, here's something fun that you might explore if you are a fan of manga: [Manga Out of the Box](https://artsandculture.google.com/project/manga), a new offering from Google Arts and Culture.  You can even draw your own manga character with help from Machine Learning (ML).
+In closing, here's something fun that you might explore if you are a fan of manga: [Manga Out of the Box](https://artsandculture.google.com/project/manga), a new offering from Google Arts and Culture.  You can even draw your own manga character on that website with the help from Machine Learning (ML). If you try it out, post your character on Piazza (start a thread "Manga Character" if it's not there yet).
 
 We wish you a nice weekend!
 
