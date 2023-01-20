@@ -20,9 +20,9 @@ We hope you all had a great start to your quarter and that you are enjoying lear
 * As mentioned in the [Syllabus]({{site.url}}/{{site.baseurl}}/about#online-class): this class "_require synchronous interactions and active participation._" 
     - This week, during the Tue class, we worked through the lab activity (_LA 2.18 Week 2 In-class activity - Calorie expenditure_ in zyBooks). As mentioned in class on Thu, your score from it was added to your in-class participation but it won't be counted in your LA01 labs, since we marked it as optional.
     - In the lab, just like in class, we focused on writing functions, including the reasons for doing so.
-    - We had our first quiz (Quiz 1) and the results have been released on Gauchospace. 
+    - We had our first quiz (**Quiz 1**) and the results have been released on Gauchospace. 
         - Quizzes are scheduled to take place each Thursday at the start of the class. 
-        - Any regrade requests should be submitted through a form that's linked in the quiz description on Gauchospace.
+        - Any regrade requests should be submitted _before the next quiz_ through a form that's linked in the quiz description on Gauchospace.
 
 * The iClicker scores from _this week_ will not be counted in your participation. Refer to the Syllabus policies about the generous dropped scores and see Thu recording for an explanation of those policies.
 * The slides and class recordings as well as the videos from the class and lab sections are posted on Gauchospace (look for the ⏩ icon; use your <span style="color:red">**UCSB address**</span> - we won't be granting access to personal gmail accounts.)
@@ -30,19 +30,26 @@ We hope you all had a great start to your quarter and that you are enjoying lear
 ℹ️ Pay attention to the **Troubleshooting** section of the zyLabs, especially, the **checkpoint** labs - we aggregate the most common issues that we see in the office hours and on Piazza, and add them there with the suggested solutions.
 If you run into an issue, check those sections first.
 
+Please, make sure to follow the [**Piazza Posting Guidelines**](https://piazza.com/class/lcl1mbc5frw2cw/post/6) (a pinned post at the top of the list of messages) to help ensure that this is a useful resource for the class. In particular, it is important that you add messages **as text** instead of posting screenshots and that you **do not post your code publicly**. At the start of the post there are useful tips and suggestions, such as using the question numbers and search / filters, so we hope that you continue to use it for reference.
+
 
 ## ⏰ Week 2 and 3 - Due dates and Deadlines ⏰
 As you can see on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar#week-2), the due dates for this week included:
-* ⏰  **Tuesday, 1/17, 11:59PM**: **LA01** (in zyBooks, LAB ).
-* ⏰  **Wednesday, 1/18, 11:59PM**: complete the zyLabs with the word "Checkpoint" in their title.
+* ⏰  **Tuesday, 1/17, 11:59PM**: **LA01** (in zyBooks, LAB 1.14 - 1.21).
+* ⏰  **Wednesday, 1/18, 11:59PM**: complete the Week 2 zyLabs (LA02) with the word "Checkpoint" in their title.
+* ⏰  **Thursday, 1/19**: in-class Quiz 1 on Gauchospace, covering Week 1 content. 
 * ⏰  **Saturday, 1/21, 11:59PM**: Week 2 reflection - the link to it is available under the Week 2 tab on Gauchospace
 * ⏰  **Saturday, 1/21, 11:59PM**:  **PA02** + **CA02** in zyBooks are due.
 
-Work on completing **LA02** (Week 2 lab activities in zyBooks, LAB 2.10 - 2.16) _before Monday 9am_ - so that you have enough time to ask for clarifications during the [office hours]({{site.url}}/{{site.baseurl}}/schedule/), lab sessions, or post your questions on [Piazza]({{site.aux_links.Piazza}}) (you can watch the Week 1 Th class recording to see how to make a new post/post a follow-up)
+
+Work on completing **LA02** (Week 2 lab activities in zyBooks, LAB 2.10 - 2.16) _before Monday 9am_ - so that you have enough time to ask for clarifications during the [office hours]({{site.url}}/{{site.baseurl}}/schedule/), lab sessions, or post your questions on [Piazza]({{site.aux_links.Piazza}}).
+
+As always, we will have practice reading quizzes available for you on Gauchospace (not graded, just for practice).
 
 The deadlines **next week** are:
 * ⏰ **Tuesday 11:59PM** Due: **LA02**
-* ⏰ **Wednesday 11:59PM** Due: **LA CHECKPOINT**
+* ⏰ **Wednesday 11:59PM** Due: **LA03 CHECKPOINT** (Week 3 zyLabs (LA02) with the word "Checkpoint" in their title).
+* ⏰ **Thursday**: in-class Quiz 2 on Gauchospace, covering Week 1 and 2 content. 
 * ⏰ **Saturday 11:59PM** Due: **Weekly reflection** that will be posted on Gauchospace + **PA03** + **CA03**
 
 
