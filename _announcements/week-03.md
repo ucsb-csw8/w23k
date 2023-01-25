@@ -29,7 +29,7 @@ If there is anything from Week 3 that you are still unsure about, especially, re
         - String Formatting
         - Binary Numbers
     - We had our second quiz (Quiz 2) and the results have been released on Gauchospace. 
-        - Quizzes are announced in advance during the class (i.e., during the previous week and/or previous class time). 
+        - Quizzes are scheduled to take place each Thursday at the start of the class.
         - Any regrade requests should be submitted through a form that's linked in the quiz description on Gauchospace.
 
 * The slides and class recordings as well as the videos from the class and lab sections are posted on Gauchospace (look for the ⏩ icon; use your <span style="color:red">**UCSB address**</span> - we won't be granting access to personal gmail accounts.)
