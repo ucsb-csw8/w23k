@@ -4,7 +4,7 @@ week: 3
 date: 2023-01-27
 ---
 
-# 📚 Week 3: Representing data (Variables and Types) 
+# 🍡 Week 3: Representing data (Variables and Types) 
 
 Dear all,
 
@@ -14,7 +14,7 @@ We have been really happy to meet those of you who stopped by the office hours, 
 Before we dive into Week 4, we wanted to take a step back to review what happened in Week 3.
 If there is anything from Week 3 that you are still unsure about, especially, regarding indexing and string formatting, make sure that you review and clarify it. The material in this class will begin to build on itself a lot more after Week 4, so make sure that you are comfortable with what we've covered so far. 
 
-- In Week 3 chapter and in the lab, we get to practice different data structures such as:
+- In Week 3 chapter and in the labs, we got to practice different data structures such as:
     - Tuples (Immutable Data Store), 
     - Sets (Mutable Data Store),
     - Lists (Mutable Data Store),
@@ -26,7 +26,7 @@ If there is anything from Week 3 that you are still unsure about, especially, re
     - Binary Numbers
 - The book as well as the slides and the class recording include the table comparing the data structures, which we encourage you to use as a reference.
 - In class, we practiced writing functions, differentiating between the `print` and `return` results, as well as how the `if __name__ == "__main__":` block affects the code that is imported as a module.
-- We had our second quiz (Quiz 2) and the results have been released on Gauchospace. 
+- We had our second quiz on Thursday (**Quiz 2**) and the results have been released on Gauchospace. 
     - Quizzes are scheduled to take place each Thursday at the start of the class.
     - Any regrade requests should be submitted through a form that's linked in the quiz description on Gauchospace.
 
@@ -37,18 +37,19 @@ If there is anything from Week 3 that you are still unsure about, especially, re
 ## ⏰ Week 4 - Due dates and Deadlines ⏰
 
 _Keep in mind that your grades have to be manually transferred to Gauchospace, so the synchronization is not instant. 
-Your grades for each week's activities will be updated by Thursday at 1pm. We will process the extensions on the same day - you will receive a confirmation when your extension was processed and the grade was updated._
+Your grades for each week's activities will be updated by Thursday at 1pm. We will process the extensions on the same day - you will receive a confirmation email when your extension was processed and the grade was updated._
 
 Upcoming deadlines are:
 * ⏰ **Saturday, 1/28 11:59PM** Due: **Weekly reflection** that will be posted on Gauchospace + **PA03** + **CA03**
 * ⏰ **Tuesday, 1/31 11:59PM** Due: **LA03**
-* ⏰ **Wednesday, 2/1 11:59PM** Due: **LA04 CHECKPOINT**
+* ⏰ **Wednesday, 2/1 11:59PM** Due: **LA04 CHECKPOINT** (Week 4 zyLabs with the word “Checkpoint” in their title).
+* ⏰ **Thursday**: in-class **Quiz 3** on Gauchospace, covering Week 1-3 content.
 * ⏰ **Saturday, 2/4 11:59PM** Due: **Weekly reflection** that will be posted on Gauchospace + **PA04** + **CA04**
 
 
 ## ➡️    Staying on Track
 
-As we move into Weeks 4 and 5, this course (as well as your other courses) will begin to pick up the pace. Plan for it and make sure that you stay ahead by ensuring that you finish your reading early and come to class having done your PAs.
+As we move into Weeks 4 and 5, this course (as well as your other courses) will begin to pick up the pace. Plan for it and make sure that you stay ahead by ensuring that you finish your reading and zyBook activities early and come to class having done your PAs.
 
 🔮 [Looking ahead to Week 4]({{site.url}}/{{site.baseurl}}/calendar#week-4), your tasks for the upcoming days are:
 * Understand the flow of the program based on the results of Boolean conditions. Practice writing `assert` statements. 💎
