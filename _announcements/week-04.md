@@ -18,8 +18,6 @@ We’re almost halfway through the quarter!
         
 * The slides and class recordings as well as the videos from the class and lab sections are posted on Gauchospace (look for the ⏩ icon; use your <span style="color:red">**UCSB address**</span> - we won't be granting access to personal gmail accounts.)
 
-* The last section of every chapter in zyBook contains our class notes, which we update afterward with whatever was discussed in class. Sometimes, like this week, there is additional code for you to practice with (the number-guessing game using the `random` module).
-
 ## ⏰ Week 5 - Due dates and Deadlines ⏰
 
 Check the [Calendar]({{site.url}}/{{site.baseurl}}/calendar#week-4), for the due dates. They are the same as they've been before.
@@ -27,7 +25,6 @@ Check the [Calendar]({{site.url}}/{{site.baseurl}}/calendar#week-4), for the due
 Upcoming deadlines are:
 * ⏰  **Tuesday, 2/07 11:59PM**: **LA04**
 * ⏰  **Wednesday, 2/08 11:59PM**: **LA05 CHECKPOINT** Week 5 zyLabs with the word “Checkpoint” in their title
-* ⏰ **Thursday, 2/09**: in-class Quiz 4 on Gauchospace, covering Week 1-4 content.
 * ⏰  **Saturday, 2/11 11:59PM**: Weekly reflection - the link to it is available under the **Week 4 tab** on Gauchospace + **PA05** + **CA05**
 
 Important: **Next Monday, 2/06** is the deadline to drop this course without a W. 
@@ -40,34 +37,15 @@ Important: **Next Monday, 2/06** is the deadline to drop this course without a W
 
 🔮 [Looking ahead to Week 5]({{site.url}}/{{site.baseurl}}/calendar#week-5), your tasks for the upcoming days are:
 * Carefully read the instructions! Do NOT rush through them. 💎
-    - Practice writing reusable and generalizable code using functions.
-    - Carefully read about how to write the `assert` statements. Notice the general form of the statement: the keyword `assert` followed by a condition (usually with the `==` operator).
-
-If you ever have any questions, please, _first_ consult the [course syllabus]({{site.url}}/{{site.baseurl}}/about) and the [Frequently Asked Questions (FAQ) section]({{site.url}}/{{site.baseurl}}/faq). A lot of [course structure, helpful hints, and expectations]({{site.url}}/{{site.baseurl}}/faq/#weekly-pattern-and-planning-your-work) are also outlined for you on that page.
+    - Take non-function code from zyBooks and see if you can turn it into a function.
+    - Write tests for it.
+    - Feel free to ask us during the office hours if you are on the right track.
+    - The condition should involve checking the result of the function call. Please review the examples from class and practice writing them on your own. We'll be asking you to write assert statements on the future quizzes.
 
 ## Grade updates
 
 _Your zyBook grades have to be manually transferred to Gauchospace, so the synchronization is not instant._
-* Your grades for each week’s activities will be all updated on **Fridays at 10am**. 
-* The extensions will be processed as a batch at the end of each week on **Saturdays by 10 am** - you will receive a confirmation when your extension was processed and the grade was updated.
-* Remember that we will not accept retroactive extension requests for previous weeks.
-
-Check the Syllabus about our policies: note that we do not provide additional extensions without proper documentation that shows 1) your name, 2) dates, and 3) the reason/explanation for the extension.
-
-
-## Syllabus updates
-
-As promised, the Syllabus has been updated with the iClicker participation policy.
-
-Previously, the [Grading]({{site.url}}/{{site.baseurl}}/about#grading) section stated
-```
-10% Course Participation: synchronous participation + weekly reflection;
-   2 lowest/missing of each will be dropped
-```
-Check the updates to the [Grading]({{site.url}}/{{site.baseurl}}/about#grading) section to make sure you are aware of the new breakdown.
-
-The iClicker accuracy of your responses (performance) is not going to be included as part of your main score. We do, however, plan to offer an occasional extra credit for those who manage to answer all or almost all questions correctly. 🎖️
-
+_Your grades for each week's activities will be updated by Thursday at 1pm. We will process the extensions on the same day - you will receive a confirmation when your extension was processed and the grade was updated._
 
 ## Your TO-DO before Week 5
 
