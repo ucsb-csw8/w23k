@@ -43,8 +43,8 @@ schedule:
         end: 3:00 PM
         location: Pengfei
       - name: Office Hours
-        start: 5:00 PM
-        end: 7:00 PM
+        start: 3:00 PM
+        end: 5:00 PM
         location: Carina
       - name: Office Hours
         start: 7:00 PM
@@ -135,8 +135,8 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
-        start: 9:00 AM
-        end: 11:00 AM
+        start: 11:00 AM
+        end: 1:00 PM
         location: Nikunj
       - name: Office Hours
         start: 4:00 PM
