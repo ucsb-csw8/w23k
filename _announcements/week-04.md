@@ -87,7 +87,7 @@ In addition to the installation guide and a brief intro to IDLE that we provided
 * Python Tutor is a cool [resource](https://pythontutor.com/visualize.html#mode=edit) for running code in Python - we highly recommend it!
     * This website allows you to trace through your code step by step so you can see exactly how your code is being executed.
 
-✨ Lastly, here is some great insight on [Human-Centered Artificial Intelligence](https://www.youtube.com/watch?v=4W2kXBBFDw4) which is related to our discussion of human-centered design this week.
+✨ Lastly, here is some great insight on [Human-Centered Artificial Intelligence](https://www.youtube.com/watch?v=4W2kXBBFDw4), which is related to our discussion of human-centered design this week.
 
 Wishing you a lovely weekend!
 
