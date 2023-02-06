@@ -77,7 +77,7 @@ schedule:
       - name: Section
         start: 09:00 AM
         end: 09:50 AM
-        location: Xinyu, Kimia
+        location: Xinyu, Yunhao, Kimia
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
@@ -129,10 +129,6 @@ schedule:
         end: 3:00 PM
         location: Kimia
       - name: Office Hours
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Xinyu
-      - name: Office Hours
         start: 6:00 PM
         end: 8:00 PM
         location: Jiabao
@@ -142,6 +138,10 @@ schedule:
         start: 11:00 AM
         end: 1:00 PM
         location: Nikunj
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:00 PM
+        location: Xinyu In-person @ TA trailer 936
       - name: Office Hours
         start: 4:00 PM
         end: 6:00 PM
