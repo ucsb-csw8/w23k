@@ -68,6 +68,10 @@ schedule:
         start: 1:00 PM
         end: 3:00 PM
         location: Yunhao
+      - name: Office Hours
+        start: 6:30 PM
+        end: 8:30 PM
+        location: Jiabao
   - name: Wednesday
     events:
       - name: Section
