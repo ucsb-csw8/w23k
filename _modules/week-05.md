@@ -22,7 +22,7 @@ Feb 8
 
 
 Feb 9
-: 09:30am **Class**{: .label .label-purple } **Quiz**{: .label .label-red}
+: 09:30am **Class**{: .label .label-purple } No graded **Quiz**{: .label .label-red} to enable more practice
 
 
 Feb 10
