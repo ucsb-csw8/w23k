@@ -15,6 +15,7 @@ We hope you all had a great week! With 50% of the course behind us, we hope you 
 - We discussed how to write functions (function definition), how to execute functions (function call), the different kinds of arguments a function takes and how they are different from the function parameters, the different kinds of outputs a function can have, how to output values (print vs. return statement), different python IDEs, and much more.
 - We haven’t talked in-depth about the dynamic vs static typing, and namespaces but we will be going over them in the coming weeks, so please read up on them and bring your questions.
 - During labs, we went over some concepts taught in class such as function definition and function call. In addition to this, we demonstrated how to upload solutions to Gradescope so that they can be autograded. We also demonstrated how to use IDLE and how it can be helpful to test your code.
+- Quiz 3 results have been released on Gauchospace.
     
 * The slides and class recordings as well as the videos from the class and lab sections are posted on Gauchospace (look for the ⏩ icon; use your <span style="color:red">**UCSB address**</span> - we won't be granting access to personal gmail accounts.)
 
