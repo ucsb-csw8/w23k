@@ -27,6 +27,8 @@ The deadlines **next week** are:
 * ⏰ **Thursday, 2/23**: in-class **Quiz 5** on Gauchospace, covering Week 1-6 content. **Starts at 9:30AM sharp**.
 * ⏰ **Saturday, 2/25 11:59PM**: **Weekly reflection** that will be posted on Gauchospace + **PA07** + **CA07**
 
+**Next Monday 2/20** is holiday, so there will be no office hours.
+
 
 ## ➡️    Staying on Track
 * Continue practicing with the IDE / IDLE to ensure that you can create new files and are [**not** relying on the Python shell]({{site.url}}/{{site.baseurl}}/ref/ide#warning)
@@ -52,6 +54,8 @@ The deadlines **next week** are:
 
 * If you are still confused about if __name__ == “__main__”, have a look at [this article](https://www.freecodecamp.org/news/if-name-main-python-example) to read more about it (🐍 snake picture alert!). We encourage you to use a template to help you with the function definition and the `if __name__ == "__main__":` in your main.py file.
 * Use [Python Tutor to visualize your code](https://pythontutor.com/visualize.html#mode=edit) and let us know if you have other [debugging tips]({{site.url}}/{{site.baseurl}}/ref/debug#quick-debugging-tips) that would be helpful to share with others.
+
+* Pinned on Piazza is a post about the Data Buddies survey, [a chance to enter a raffle to win one of ten $20.00 (USD) Amazon gift cards](https://piazza.com/class/lcl1mbc5frw2cw/post/197). The survey closes on **Feb 26, 2023**.
 
 
 We are happy to see that you are working hard and making your way through the difficult weeks of the quarter. Let’s keep the spirit up. We are here to help you with anything you need -- don’t hesitate to reach out to us through piazza or attend our office hours during the week. We hope you’ll also get to recharge yourselves over the weekend :). Wishing you all a lovely weekend!
