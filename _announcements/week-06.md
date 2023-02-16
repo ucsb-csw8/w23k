@@ -27,7 +27,7 @@ The deadlines **next week** are:
 * ⏰ **Thursday, 2/23**: in-class **Quiz 5** on Gauchospace, covering Week 1-6 content. **Starts at 9:30AM sharp**.
 * ⏰ **Saturday, 2/25 11:59PM**: **Weekly reflection** that will be posted on Gauchospace + **PA07** + **CA07**
 
-**Next Monday 2/20** is holiday, so there will be no office hours.
+**Next Monday 2/20** is a holiday, so there will be no office hours.
 
 
 ## ➡️    Staying on Track
