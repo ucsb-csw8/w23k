@@ -34,6 +34,8 @@ _Note: **Monday 2/20** is a holiday, so there will be no office hours._
 * Continue practicing with the IDE / IDLE to ensure that you can create new files and are [**not** relying on the Python shell]({{site.url}}/{{site.baseurl}}/ref/ide#warning)
 * Practice writing code from scratch (see the tips under the "experiment" bullet point listed [here]({{site.url}}/{{site.baseurl}}/success/#general-guidelines-on-how-to-succeed-in-a-computing-course))
 * If you haven't already, take the Practice Gradescope Quiz that's posted on Gauchospace, and submit your file on Gradescope until you get the full score (_Gradescope allows you to submit an unlimited number of times until the deadline_)
+* Review Tuesday's recording (Week 6, Feb 14) to review more tips for IDE tips and Quiz preparation
+
 
 🔮 [Looking ahead to Week 7]({{site.url}}/{{site.baseurl}}/calendar#week-7), your tasks for the upcoming days are:
 * Review your notes from Week 3 about Lists and Dictionaries! 💎
@@ -51,10 +53,11 @@ _Note: **Monday 2/20** is a holiday, so there will be no office hours._
 * If you are still confused about if __name__ == “__main__”, have a look at [this article](https://www.freecodecamp.org/news/if-name-main-python-example) to read more about it (🐍 snake picture alert!). We encourage you to use a template to help you with the function definition and the `if __name__ == "__main__":` in your main.py file.
 * Use [Python Tutor to visualize your code](https://pythontutor.com/visualize.html#mode=edit) and let us know if you have other [debugging tips]({{site.url}}/{{site.baseurl}}/ref/debug#quick-debugging-tips) that would be helpful to share with others.
 
+## Survey Reminder
 * Pinned on Piazza is a post about the Data Buddies survey, [a chance to enter a raffle to win one of ten $20.00 (USD) Amazon gift cards](https://piazza.com/class/lcl1mbc5frw2cw/post/197). The survey closes on **Feb 26, 2023**.
 
 
-We are happy to see that you are working hard and making your way through the difficult weeks of the quarter. Let’s keep the spirit up. We are here to help you with anything you need -- don’t hesitate to reach out to us through Piazza or attend our office hours during the week (including the in-person times! 🎊). 
+We are happy to see that you are working hard and making your way through the difficult weeks of the quarter. Let’s keep the spirit up. We are here to help you with anything you need -- don’t hesitate to reach out to us through Piazza or attend our office hours during the week ([including the in-person times!]({{site.url}}/{{site.baseurl}}/schedule) 🎊). 
 
 We hope you’ll get to recharge yourselves over the weekend, since we are moving into the busiest part of the term. 
 
