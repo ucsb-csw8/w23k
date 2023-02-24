@@ -54,7 +54,7 @@ Quiz 5 has been graded and released - you should have received an email from Gra
 
 * Check out this helpful resource on [lists](https://www.w3schools.com/python/python_lists.asp) and [dictionaries](https://www.w3schools.com/python/python_dictionaries.asp). We encourage you to try out the examples there and don’t hesitate to use print statements to understand what each method does -- it's an excellent debugging technique!
 
-* Here is an article talking about some of the [most costly software errors](https://raygun.com/blog/costly-software-errors-history/). As we practice more on assert statements in class, we hoep you will come to appreciate the importance of testing.
+* Here is an article talking about some of the [most costly software errors](https://raygun.com/blog/costly-software-errors-history/). As we practice more on assert statements in class, we hope you will come to appreciate the importance of testing.
 
 The quarter is beginning to pick up its pace and the workload is naturally increasing in all courses. This weekend, take a moment and look over your schedule and make sure to add some breaks and fun things to it.
 
