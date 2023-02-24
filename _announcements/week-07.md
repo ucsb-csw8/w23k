@@ -40,6 +40,9 @@ Quiz 5 has been graded and released - you should have received an email from Gra
 * Write down anything that's unclear and if you have any questions to ask during class
 * Practice writing code from scratch using your IDE.
 
+## Reminder for TA Evaluation form
+
+* If you haven't already, here is the link to TA evaluation form: https://forms.gle/Wa4mXoAnh8n647499. We would appreciate your feedback!
 
 
 ## ➡️    Resources
