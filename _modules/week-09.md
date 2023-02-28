@@ -1,9 +1,9 @@
 ---
 title: Week 9
-topic: Exploiting self-similarity (Recursion)
+topic: Storing and Retrieving Data from Files
 ---
 Mar 5
-: Start: **PA09**{: .label .label-orange }, **CA09**{: .label .label-blue }
+: Start: **PA09**{: .label .label-orange }
 
 
 Mar 6
@@ -20,13 +20,13 @@ Mar 8
 
 
 Mar 9
-: 09:30am **Class**{: .label .label-purple } **Quiz**{: .label .label-red}
+: 09:30am **Class**{: .label .label-purple } + **Quiz**{: .label .label-red}
 
 
 Mar 10
 : 
 
 Mar 11
-: **11:59pm**  ⏰  Due: **PA09**{: .label .label-orange }, **CA09**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
+: **11:59pm**  ⏰  Due: **PA09**{: .label .label-orange }, **Reflection**{: .label .label-yellow }
 
 
