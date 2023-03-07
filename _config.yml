@@ -77,6 +77,8 @@ aux_links: # TODO - update to yours
     - 'https://www.gradescope.com/courses/484136/'
   "Main CS8 W Site":
     - 'https://ucsb-csw8.github.io'
+  "w23-project (both sections)":
+    - "//ucsb-csw8.github.io/w23-project/"
 aux_links_new_tab: true
 
 # TODO - change to your name
