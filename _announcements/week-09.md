@@ -37,8 +37,9 @@ The deadlines **next week** are:
 ## Final Project Clarification
 * As mentioned in this [piazza post](https://piazza.com/class/lcl1mbc5frw2cw/post/338), to pass the gradescope tests for final project (checkpoint 1), you need to add two dash lines (each composed of 42 dashes '-') in your print_restaurant_menu function. We apologize for the inconsistency.
 
-## LA08 Deadline Extension
-* As mentioned in the email on Wednesday, to ensure that everyone has a chance to work through the Grade Management labs and submit them, we will extend the LA08 deadline until this Saturday (March 11) 23:59. 
+## Zybook Lab Announcements
+* As mentioned in the email on Wednesday, to ensure that everyone has a chance to work through the Grade Management labs and submit them, we will extend the **LA08** deadline until this Saturday (March 11) 23:59. 
+* **Week 10 Labs** have been released, so you can start working on them already.
 
 ## ➡️    Resources
 Here is an interesting article talking about csv files that we leared how to read this week: [CSV FORMAT: HISTORY, ADVANTAGES AND WHY IT IS STILL POPULAR](https://bytescout.com/blog/csv-format-history-advantages.html)
