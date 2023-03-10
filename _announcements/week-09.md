@@ -1,10 +1,10 @@
 ---
 title: Week 9 Review 
 week: 9
-date: 2023-01-10
+date: 2023-03-10
 ---
 
-# 🎲 Week 9: Storing and Retrieving Data from Files
+# 🕘 Week 9: Storing and Retrieving Data from Files
 
 Dear all,
 
@@ -20,8 +20,8 @@ In the previous announcement (emailed on email on Wednesday, March 8), we extend
 * **Week 10 Labs** have been released, so you can start working on them already.
 
 The deadlines **next week** are:
-* ⏰ **Wednesday, 3/15 11:59PM**: **[Project Checkpoint 1](https://ucsb-csw8.github.io/w23-project/step01/#dates)**
-* ⏰ **Saturday, 3/18 11:59PM**: **LA09** functions are needed for the **[Project Checkpoint 2](https://ucsb-csw8.github.io/w23-project/step01/#dates)**, so they will be due **in zyBooks** at that time as well: at the end of Week 10.
+* ⏰ **Wednesday, 3/15 11:59PM**: [Project Checkpoint 1](https://ucsb-csw8.github.io/w23-project/step01/#dates)
+* ⏰ **Saturday, 3/18 11:59PM**: **LA09** functions are needed for the [Project Checkpoint 2](https://ucsb-csw8.github.io/w23-project/step01/#dates), so they will be due **in zyBooks** at that time as well: at the end of Week 10.
 * ⏰ **Saturday, 3/18 11:59PM**: **PA10** + **CA10**
 
 ## Finals Week 
