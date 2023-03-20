@@ -28,15 +28,15 @@ Here's how to buy it:
   <img width="257" alt="image" src="https://user-images.githubusercontent.com/1119017/210288335-f1b34f35-bfe5-41a7-8d5b-e56f3b8b471a.png">
 
 * For your email address, use an email of the form `username@ucsb.edu` (not `@umail.ucsb.edu`)
-* For section, there is a dropdown; select either `MW-Conrad` or `TR-Kharitonova` depending on which lecture you are enrolled in.
+* For section, there is a dropdown; please, **select `TR-Kharitonova`** (NOT `MW-Conrad`, since your section needs to match the one that you are enrolled in - see below)
 
   <img width="263" alt="image" src="https://user-images.githubusercontent.com/1119017/210288409-cde119ab-1509-46d4-a4f5-bba4d71a97ee.png">
 
 * For the student ID number, enter your **seven** digit perm **as numbers only** (no hyphens!)
 
-It is important to get the email, section and student ID number correct.
+It is important to get the **email, section and student ID number** correct.
 * If you don't, there may be delays in getting credit for your work
-* Please double check your entries for accuracy.
+* Please double check your entries for accuracy, otheriwse, your zyBooks scores will **not** show up in the gradebook on Gauchospace, resulting in **failing the class**.
 
 
  
